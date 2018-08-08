@@ -66,3 +66,5 @@ INSERT INTO `gift_message` VALUES (/*id*/99419, /*discription*/"《MOMO x 公主
 INSERT INTO `gift_message` VALUES (/*id*/99420, /*discription*/"特約通路序號兌換獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99421, /*discription*/"So-net 夏日遊戲祭限定獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99422, /*discription*/"2018 漫畫博覽會紀念獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99423, /*discription*/"GooglePlay限定新手禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99424, /*discription*/"掃蕩券量販包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
