@@ -68,3 +68,6 @@ INSERT INTO `gift_message` VALUES (/*id*/99421, /*discription*/"So-net 夏日遊
 INSERT INTO `gift_message` VALUES (/*id*/99422, /*discription*/"2018 漫畫博覽會紀念獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99423, /*discription*/"GooglePlay限定新手禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99424, /*discription*/"掃蕩券量販包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99425, /*discription*/"MyCard 7-11聯合促銷活動獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99426, /*discription*/"UP直播虛寶獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99427, /*discription*/"獨立碎片禮包獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
