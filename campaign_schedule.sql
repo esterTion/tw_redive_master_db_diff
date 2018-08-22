@@ -1,3 +1,4 @@
 CREATE TABLE 'campaign_schedule' ('id' INTEGER NOT NULL, 'campaign_category' INTEGER NOT NULL, 'value' REAL NOT NULL, 'system_id' INTEGER NOT NULL, 'icon_image' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `campaign_schedule` VALUES (/*id*/1, /*campaign_category*/34, /*value*/2000.0, /*system_id*/103, /*icon_image*/30, /*start_time*/"2018/08/20 16:00:00", /*end_time*/"2018/08/27 15:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/2, /*campaign_category*/44, /*value*/2000.0, /*system_id*/103, /*icon_image*/40, /*start_time*/"2018/08/20 16:00:00", /*end_time*/"2018/08/27 15:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/3, /*campaign_category*/45, /*value*/2000.0, /*system_id*/104, /*icon_image*/40, /*start_time*/"2018/08/27 16:00:00", /*end_time*/"2018/09/03 15:59:59");
