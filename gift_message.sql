@@ -72,3 +72,4 @@ INSERT INTO `gift_message` VALUES (/*id*/99425, /*discription*/"MyCard 7-11聯�
 INSERT INTO `gift_message` VALUES (/*id*/99426, /*discription*/"UP直播虛寶獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99427, /*discription*/"獨立碎片禮包獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99428, /*discription*/"精選碎片禮包獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99429, /*discription*/"瑪那量販包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
