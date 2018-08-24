@@ -72,4 +72,17 @@ INSERT INTO `gift_message` VALUES (/*id*/99425, /*discription*/"MyCard 7-11聯�
 INSERT INTO `gift_message` VALUES (/*id*/99426, /*discription*/"UP直播虛寶獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99427, /*discription*/"獨立碎片禮包獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99428, /*discription*/"精選碎片禮包獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/99429, /*discription*/"瑪那量販包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99429, /*discription*/"經驗藥水量販包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99430, /*discription*/"公告發布時間問題補償", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99431, /*discription*/"戰隊任務獎勵補償", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99432, /*discription*/"「我的公主我最懂」全服獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99433, /*discription*/"雙平台20萬下載紀念獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99434, /*discription*/"全服冒險通關總星數達1億獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99435, /*discription*/"戰隊滿員且LV15以上獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99436, /*discription*/"達成指定等級獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99437, /*discription*/"擁有★4角色指定數量獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99438, /*discription*/"擁有★5角色指定數量獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99439, /*discription*/"競技場最高紀錄第一名獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99440, /*discription*/"公主競技場最高紀錄第一名獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99441, /*discription*/"競技場勝場數TOP100獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99442, /*discription*/"公主競技場勝場數TOP100獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

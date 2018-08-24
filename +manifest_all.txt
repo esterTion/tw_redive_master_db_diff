@@ -23,7 +23,7 @@ a/all_atlasdungeoncourse31002.unity3d,866d69e9f313ed5aba730bc47ea24b70,tutorial1
 a/all_atlasdungeoncourse31003.unity3d,9fc88f17ca2b2fd58fca0276a1a505ce,tutorial1,694216,
 a/all_atlasdungeoncourse31004.unity3d,e9727f87d21d2051988f53ba55a7dee0,tutorial1,651091,
 a/all_atlasdungeonprogress.unity3d,9a13f017c74780895ccad2c63a8756ac,tutorial1,61623,
-a/all_atlasevent.unity3d,735e6149815592e10f6da023371c158b,tutorial1,43138,
+a/all_atlasevent.unity3d,fb108d7a843e22e7b187b703ae302bd9,tutorial1,47438,
 a/all_atlasgacharesult.unity3d,7edddedf642a6f8be961346b6920a21c,tutorial1,38997,
 a/all_atlasgoldshop.unity3d,260a695894c8da76bd59f0f4fd04070a,tutorial1,36008,
 a/all_atlasgrandarenahistory.unity3d,2b3fad452ed8706cdbbba6374e9a8b71,tutorial1,20772,
