@@ -661,4 +661,4 @@ a/spine_skilleffect_1038004_01.unity3d,e3f35d34cc84b9ccbbc571a3c4b5c4f8,tutorial
 a/spine_skilleffect_1042001_01.unity3d,16a748c43e2e72b8a07d0581952a03cb,tutorial2,16860,
 a/spine_skilleffect_1082001_01.unity3d,0aa11ad40b7ffdbf1859483af720a2e2,tutorial2,19266,
 a/spine_smile.cysp.unity3d,3bd8b297088873c2e2589c7cb9747d2b,tutorial2,4371,
-a/spine_uianimation_0000.unity3d,f9ecac76551de384ce3de1f8c41d1830,tutorial2,14721,
+a/spine_uianimation_0000.unity3d,fcf429c00e221cd221efcb0a8c08be4a,tutorial2,14654,

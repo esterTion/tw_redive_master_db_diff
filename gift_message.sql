@@ -88,3 +88,4 @@ INSERT INTO `gift_message` VALUES (/*id*/99441, /*discription*/"競技場勝場�
 INSERT INTO `gift_message` VALUES (/*id*/99442, /*discription*/"公主競技場勝場數TOP100獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99443, /*discription*/"台灣大哥大天天賺序號兌換獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99444, /*discription*/"Book☆Walker序號兌換獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99445, /*discription*/"每日體力禮包的獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
