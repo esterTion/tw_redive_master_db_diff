@@ -89,3 +89,9 @@ INSERT INTO `gift_message` VALUES (/*id*/99442, /*discription*/"公主競技場�
 INSERT INTO `gift_message` VALUES (/*id*/99443, /*discription*/"台灣大哥大天天賺序號兌換獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99444, /*discription*/"Book☆Walker序號兌換獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99445, /*discription*/"每日體力禮包的獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99446, /*discription*/"中秋紀念福袋", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99447, /*discription*/"中秋紀念禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99448, /*discription*/"初音的禮物大作戰-全服獎勵加碼送", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99449, /*discription*/"來自戰隊成員的戰隊分享包獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99450, /*discription*/"FB小屋改造王獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99451, /*discription*/"初音的禮物大作戰-全服獎勵加碼送", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
