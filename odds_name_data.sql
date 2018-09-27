@@ -4,3 +4,5 @@ INSERT INTO `odds_name_data` VALUES (/*id*/2, /*odds_file*/"eq_rank_3-6", /*name
 INSERT INTO `odds_name_data` VALUES (/*id*/3, /*odds_file*/"eq_rank_4-7", /*name*/"RANK4～7的裝備道具", /*icon_type*/99002, /*description*/"角色RANK4～7所需要的裝備道具");
 INSERT INTO `odds_name_data` VALUES (/*id*/4, /*odds_file*/1000120101, /*name*/"初音的記憶碎片", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/5, /*odds_file*/1000120102, /*name*/"栞的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/6, /*odds_file*/1000220101, /*name*/"禊的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/7, /*odds_file*/1000220102, /*name*/"美美的記憶碎片", /*icon_type*/99002, /*description*/"");
