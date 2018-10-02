@@ -375,3 +375,4 @@ INSERT INTO `album_production_list` VALUES (/*id*/10630105, /*unit_id*/106301, /
 INSERT INTO `album_production_list` VALUES (/*id*/10630106, /*unit_id*/106301, /*type*/105, /*title*/"羈絆Rank表演5", /*description*/"");
 INSERT INTO `album_production_list` VALUES (/*id*/10630107, /*unit_id*/106301, /*type*/106, /*title*/"羈絆Rank表演6", /*description*/"");
 INSERT INTO `album_production_list` VALUES (/*id*/10630108, /*unit_id*/106301, /*type*/107, /*title*/"羈絆Rank表演7", /*description*/"");
+CREATE INDEX 'album_production_list_0_unit_id' on 'album_production_list'('unit_id');

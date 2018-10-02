@@ -95,3 +95,13 @@ INSERT INTO `gift_message` VALUES (/*id*/99448, /*discription*/"初音的禮物�
 INSERT INTO `gift_message` VALUES (/*id*/99449, /*discription*/"來自戰隊成員的戰隊分享包獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99450, /*discription*/"FB小屋改造王獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99451, /*discription*/"初音的禮物大作戰-全服獎勵加碼送", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99452, /*discription*/"7-11iselect序號兌換獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99453, /*discription*/"30萬DL&改版紀念禮物", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99454, /*discription*/"雙十紀念福袋隨機好禮。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99455, /*discription*/"雙十紀念禮包超值好禮。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99456, /*discription*/"每日秘石禮包的獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99457, /*discription*/"三星公主碎片包的獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99458, /*discription*/"個人總戰力達到指定條件獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99459, /*discription*/"購買體力達到指定次數獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99460, /*discription*/"購買瑪那達到指定次數獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99461, /*discription*/"擁有Rank8以上角色指定數量獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

@@ -8,7 +8,7 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/100601, /*unit_name*/"風宮 �
 INSERT INTO `unit_background` VALUES (/*unit_id*/100701, /*unit_name*/"出雲 宮子", /*bg_id*/500260, /*bg_name*/"古城", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/100801, /*unit_name*/"虹村 雪", /*bg_id*/500140, /*bg_name*/"普拉諾平原", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/100901, /*unit_name*/"柊 杏奈", /*bg_id*/500050, /*bg_name*/"蘭德索爾 餐廳內", /*position*/0.0, /*face_type*/3);
-INSERT INTO `unit_background` VALUES (/*unit_id*/101001, /*unit_name*/"姫宮 真步", /*bg_id*/500060, /*bg_name*/"哞哞自衛隊 據點", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/101001, /*unit_name*/"姬宮 真步", /*bg_id*/500060, /*bg_name*/"哞哞自衛隊 據點", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/101101, /*unit_name*/"衣之咲 璃乃", /*bg_id*/500030, /*bg_name*/"蘭德索爾 繁華街", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/101201, /*unit_name*/"柏崎 初音", /*bg_id*/500180, /*bg_name*/"精靈之森", /*position*/0.0, /*face_type*/3);
 INSERT INTO `unit_background` VALUES (/*unit_id*/101301, /*unit_name*/"丹野 七七香", /*bg_id*/500050, /*bg_name*/"蘭德索爾 餐廳內", /*position*/0.0, /*face_type*/2);
@@ -49,7 +49,7 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/105201, /*unit_name*/"莉瑪", 
 INSERT INTO `unit_background` VALUES (/*unit_id*/105301, /*unit_name*/"莫妮卡‧拜斯溫特", /*bg_id*/500140, /*bg_name*/"普拉諾平原", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/105401, /*unit_name*/"繭宮 紡希", /*bg_id*/500010, /*bg_name*/"蘭德索爾 市中心", /*position*/0.0, /*face_type*/9);
 INSERT INTO `unit_background` VALUES (/*unit_id*/105501, /*unit_name*/"石橋 步未", /*bg_id*/500140, /*bg_name*/"普拉諾平原", /*position*/0.0, /*face_type*/5);
-INSERT INTO `unit_background` VALUES (/*unit_id*/105601, /*unit_name*/"太刀洗流夏", /*bg_id*/500050, /*bg_name*/"蘭德索爾 餐廳內", /*position*/0.0, /*face_type*/3);
+INSERT INTO `unit_background` VALUES (/*unit_id*/105601, /*unit_name*/"太刀洗 流夏", /*bg_id*/500050, /*bg_name*/"蘭德索爾 餐廳內", /*position*/0.0, /*face_type*/3);
 INSERT INTO `unit_background` VALUES (/*unit_id*/105701, /*unit_name*/"姬塔", /*bg_id*/500200, /*bg_name*/"布里薩溪谷", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/105801, /*unit_name*/"貪吃佩可", /*bg_id*/500130, /*bg_name*/"埃斯特雷拉街道", /*position*/0.0, /*face_type*/3);
 INSERT INTO `unit_background` VALUES (/*unit_id*/105901, /*unit_name*/"可可蘿", /*bg_id*/500130, /*bg_name*/"埃斯特雷拉街道", /*position*/0.0, /*face_type*/2);

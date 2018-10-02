@@ -29,6 +29,7 @@ INSERT INTO `room_character_personality` VALUES (/*character_id*/1032, /*persona
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1033, /*personality_id*/3);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1034, /*personality_id*/4);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1036, /*personality_id*/4);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1037, /*personality_id*/1);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1038, /*personality_id*/4);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1040, /*personality_id*/1);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1042, /*personality_id*/4);
@@ -49,3 +50,9 @@ INSERT INTO `room_character_personality` VALUES (/*character_id*/1058, /*persona
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1059, /*personality_id*/1);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1060, /*personality_id*/4);
 INSERT INTO `room_character_personality` VALUES (/*character_id*/1063, /*personality_id*/1);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1075, /*personality_id*/3);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1076, /*personality_id*/1);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1077, /*personality_id*/1);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1078, /*personality_id*/4);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1079, /*personality_id*/3);
+INSERT INTO `room_character_personality` VALUES (/*character_id*/1080, /*personality_id*/4);

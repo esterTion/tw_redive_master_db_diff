@@ -64,3 +64,10 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_MAP", /*bg_id*/0, /*event_id
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_MISSION", /*bg_id*/500390, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_GACHA", /*bg_id*/500371, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_GACHA_RESULT", /*bg_id*/500371, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"SELECT_SKIN", /*bg_id*/530010, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"CARTOON", /*bg_id*/530030, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"TOWER_TOP", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_TOWER_TOP", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_TOWER_DETAIL", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_TOP", /*bg_id*/500370, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_LIST", /*bg_id*/500370, /*event_id*/0);
