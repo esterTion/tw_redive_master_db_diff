@@ -105,3 +105,5 @@ INSERT INTO `gift_message` VALUES (/*id*/99458, /*discription*/"個人總戰力�
 INSERT INTO `gift_message` VALUES (/*id*/99459, /*discription*/"購買體力達到指定次數獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99460, /*discription*/"購買瑪那達到指定次數獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99461, /*discription*/"擁有Rank8以上角色指定數量獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99462, /*discription*/"特約通路禮包加碼送!!", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99463, /*discription*/"每日瑪那禮包補送獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
