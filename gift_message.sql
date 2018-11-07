@@ -28,7 +28,7 @@ INSERT INTO `gift_message` VALUES (/*id*/9301, /*discription*/"超過持有上�
 INSERT INTO `gift_message` VALUES (/*id*/9302, /*discription*/"競技場的防守獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9303, /*discription*/"公主競技場的防守獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9304, /*discription*/"支援戰隊所獲得的獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/9305, /*discription*/"戰隊升級前用於強化裝備之道具的一部份。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9305, /*discription*/"角色升級前用於強化裝備之道具的一部份。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9306, /*discription*/"轉換主角經驗值後所獲得的瑪那。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9307, /*discription*/"於戰隊競賽的討伐獎勵中所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9308, /*discription*/"被戰隊成員讚好後所獲得的瑪那。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -109,3 +109,12 @@ INSERT INTO `gift_message` VALUES (/*id*/99462, /*discription*/"特約通路禮�
 INSERT INTO `gift_message` VALUES (/*id*/99463, /*discription*/"每日瑪那禮包補送獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99464, /*discription*/"iOS限定新手包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99465, /*discription*/"福勝亭套餐序號兌換獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99466, /*discription*/"GooglePlay人氣遊戲精選禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99467, /*discription*/"40萬DL紀念獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99468, /*discription*/"40萬DL紀念福袋隨機好禮。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99469, /*discription*/"40萬DL紀念禮包超值好禮。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99470, /*discription*/"1111狂歡禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99471, /*discription*/"巴哈姆特扭蛋序號兌換獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99472, /*discription*/"巴哈姆特虛寶卡兌換獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99473, /*discription*/"巴哈姆特舞台活動兌換獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99474, /*discription*/"巴哈姆特闖關活動兌換獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
