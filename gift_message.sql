@@ -118,3 +118,5 @@ INSERT INTO `gift_message` VALUES (/*id*/99471, /*discription*/"巴哈姆特扭�
 INSERT INTO `gift_message` VALUES (/*id*/99472, /*discription*/"巴哈姆特虛寶卡兌換獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99473, /*discription*/"巴哈姆特舞台活動兌換獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99474, /*discription*/"巴哈姆特闖關活動兌換獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99475, /*discription*/"KKBOX全家學生方案獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99476, /*discription*/"7-11御飯糰虛寶序號兌換獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

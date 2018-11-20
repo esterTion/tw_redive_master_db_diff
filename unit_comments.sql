@@ -245,7 +245,7 @@ INSERT INTO `unit_comments` VALUES (/*id*/1030003, /*unit_id*/103001, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1030004, /*unit_id*/103001, /*use_type*/1, /*voice_id*/4, /*face_id*/2, /*change_time*/4.5, /*change_face*/1, /*description*/"如果是為了將軍，\n就算是赴湯蹈火也在所不辭是也！\n因爲……我這條命，\n就是將軍的命了是也！");
 INSERT INTO `unit_comments` VALUES (/*id*/1030005, /*unit_id*/103001, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/5.5, /*change_face*/5, /*description*/"大和撫子……\n這是在妮諾的國家中也會口耳相傳的詞語\n如果我成為大和撫子的話，\n將軍也會為我著迷吧？");
 INSERT INTO `unit_comments` VALUES (/*id*/1030006, /*unit_id*/103031, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"總有一天……\n要和將軍一起\n統一天下是也！\n這就是妮諾的夢想是也！");
-INSERT INTO `unit_comments` VALUES (/*id*/1030007, /*unit_id*/103031, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"沒有什麼是妮諾能斬斷的是也！\n將軍放十二萬個心\n像搭屋形船一樣\n跟來就好是～也！");
+INSERT INTO `unit_comments` VALUES (/*id*/1030007, /*unit_id*/103031, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"沒有什麼是妮諾斬不斷的是也！\n將軍放十二萬個心\n像搭屋形船一樣\n跟來就好是～也！");
 INSERT INTO `unit_comments` VALUES (/*id*/1030008, /*unit_id*/103031, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"妮諾已經把將軍的草鞋\n放在懷中\n暖好了是也！\n一起出行吧~！");
 INSERT INTO `unit_comments` VALUES (/*id*/1030009, /*unit_id*/103031, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"將軍，請拉好我的手是～也！\n欸嘿嘿……\n這麼一來妮諾和將軍，\n就結下牢不可破的羈絆了！");
 INSERT INTO `unit_comments` VALUES (/*id*/1030010, /*unit_id*/103031, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"將軍！　是要先吃飯呢？\n還是洗澡呢？\n還是……要‧我‧呢？\n呀，好害羞是也……");
@@ -414,7 +414,7 @@ INSERT INTO `unit_comments` VALUES (/*id*/1051002, /*unit_id*/105101, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1051003, /*unit_id*/105101, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/2.5, /*change_face*/2, /*description*/"科學的發展是為了大家而存在的。\n別看我這樣，治療疾病或傷口\n是我的目標哦。");
 INSERT INTO `unit_comments` VALUES (/*id*/1051004, /*unit_id*/105101, /*use_type*/1, /*voice_id*/4, /*face_id*/5, /*change_time*/5.4, /*change_face*/2, /*description*/"在調查你身體的時候，\n也慢慢對你這個人感到興趣了呢\n喔呵呵……");
 INSERT INTO `unit_comments` VALUES (/*id*/1051005, /*unit_id*/105101, /*use_type*/1, /*voice_id*/5, /*face_id*/2, /*change_time*/1.7, /*change_face*/5, /*description*/"謝謝你\n總是來協助我做實驗。作為謝禮，\n下次就把我珍藏的秘藥送你吧♪　");
-INSERT INTO `unit_comments` VALUES (/*id*/1051006, /*unit_id*/105131, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"世界的，你想被我懲罰嗎？\n是嗎……醒了呢。\n我會好好的疼愛你的哦♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1051006, /*unit_id*/105131, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"哎呀，你想被我懲罰嗎？\n這樣啊……覺醒了呢\n我會好好地疼愛你的哦♪");
 INSERT INTO `unit_comments` VALUES (/*id*/1051007, /*unit_id*/105131, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"吶，怎麼樣呢……？\n看著我，有什麼感覺？\n恐懼？　好…妙哦。");
 INSERT INTO `unit_comments` VALUES (/*id*/1051008, /*unit_id*/105131, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"痛苦變成快樂的瞬間\n一定會來到的哦……\n你也來體驗看看吧？");
 INSERT INTO `unit_comments` VALUES (/*id*/1051009, /*unit_id*/105131, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"明明擦的是為了擄獲你的香水，\n為什麼盡是\n吸引到魔物呢……");
