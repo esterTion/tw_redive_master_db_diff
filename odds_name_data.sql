@@ -1,10 +1,13 @@
 CREATE TABLE 'odds_name_data' ('id' INTEGER NOT NULL, 'odds_file' TEXT NOT NULL, 'name' TEXT NOT NULL, 'icon_type' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
-INSERT INTO `odds_name_data` VALUES (/*id*/1, /*odds_file*/"box_rank_1-3", /*name*/"隨機裝備盒", /*icon_type*/99002, /*description*/"可隨機獲得裝備。");
-INSERT INTO `odds_name_data` VALUES (/*id*/2, /*odds_file*/"eq_rank_3-6", /*name*/"RANK3～6的裝備道具", /*icon_type*/99002, /*description*/"角色RANK3～6所需要的裝備道具");
-INSERT INTO `odds_name_data` VALUES (/*id*/3, /*odds_file*/"eq_rank_4-7", /*name*/"RANK4～7的裝備道具", /*icon_type*/99002, /*description*/"角色RANK4～7所需要的裝備道具");
+INSERT INTO `odds_name_data` VALUES (/*id*/1, /*odds_file*/"box_rank_1-3", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
+INSERT INTO `odds_name_data` VALUES (/*id*/2, /*odds_file*/"eq_rank_3-6", /*name*/"RANK3～6的裝備道具", /*icon_type*/99002, /*description*/"角色於RANK1～4中必要的裝備道具");
+INSERT INTO `odds_name_data` VALUES (/*id*/3, /*odds_file*/"eq_rank_4-7", /*name*/"RANK4～7的裝備道具", /*icon_type*/99002, /*description*/"角色於RANK4～7中必要的裝備道具");
 INSERT INTO `odds_name_data` VALUES (/*id*/4, /*odds_file*/1000120101, /*name*/"初音的記憶碎片", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/5, /*odds_file*/1000120102, /*name*/"栞的記憶碎片", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/6, /*odds_file*/1000220101, /*name*/"禊的記憶碎片", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/7, /*odds_file*/1000220102, /*name*/"美美的記憶碎片", /*icon_type*/99002, /*description*/"");
-INSERT INTO `odds_name_data` VALUES (/*id*/8, /*odds_file*/1000320101, /*name*/"香織的記憶碎片", /*icon_type*/99002, /*description*/"");
-INSERT INTO `odds_name_data` VALUES (/*id*/9, /*odds_file*/1000320102, /*name*/"真步的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/8, /*odds_file*/1000320101, /*name*/"真步的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/9, /*odds_file*/1000320102, /*name*/"香織的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/10, /*odds_file*/1000420101, /*name*/"可可蘿(夏日)的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/11, /*odds_file*/1000420102, /*name*/"咲戀的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/12, /*odds_file*/"eq_rank_5-8", /*name*/"RANK5～8的裝備道具", /*icon_type*/99002, /*description*/"角色於RANK5～8中必要的裝備道具");
