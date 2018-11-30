@@ -136,3 +136,6 @@ INSERT INTO `gift_message` VALUES (/*id*/99489, /*discription*/"真步真步王�
 INSERT INTO `gift_message` VALUES (/*id*/99490, /*discription*/"真步真步王國子民召集令★紀念活動10", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99491, /*discription*/"真步真步王國子民召集令★紀念活動11", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99492, /*discription*/"真步真步王國新手包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99493, /*discription*/"元氣體力包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99494, /*discription*/"咕嚕靈波獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99495, /*discription*/"生放送獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
