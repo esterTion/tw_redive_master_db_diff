@@ -122,7 +122,7 @@ INSERT INTO `gift_message` VALUES (/*id*/99475, /*discription*/"KKBOX全家學�
 INSERT INTO `gift_message` VALUES (/*id*/99476, /*discription*/"7-11御飯糰虛寶序號兌換獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99477, /*discription*/"戰隊競賽加碼獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99478, /*discription*/"真步真步王國限定體力獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/99479, /*discription*/"聖誕新年加碼送", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99479, /*discription*/"聖誕節狂歡體力獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99480, /*discription*/"GooglePlay人氣遊戲感恩回饋", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99481, /*discription*/"真步真步王國子民召集令★紀念活動01", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99482, /*discription*/"真步真步王國子民召集令★紀念活動02", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -139,3 +139,6 @@ INSERT INTO `gift_message` VALUES (/*id*/99492, /*discription*/"真步真步王�
 INSERT INTO `gift_message` VALUES (/*id*/99493, /*discription*/"元氣體力包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99494, /*discription*/"咕嚕靈波獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99495, /*discription*/"生放送獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99496, /*discription*/"來自營運團隊的獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99497, /*discription*/"MEME直播獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99498, /*discription*/"迎接2019跨年體力獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

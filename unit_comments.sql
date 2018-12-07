@@ -529,5 +529,15 @@ INSERT INTO `unit_comments` VALUES (/*id*/1077007, /*unit_id*/107731, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1077008, /*unit_id*/107731, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"和大家一起放煙火\n真是開心呢\n下次要試著雙手都\n拿著煙火哦～♪");
 INSERT INTO `unit_comments` VALUES (/*id*/1077009, /*unit_id*/107731, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"像這樣兩個人一起放煙火\n看起來像不像一對戀人呢？\n開玩笑的…耶嘿嘿☆");
 INSERT INTO `unit_comments` VALUES (/*id*/1077010, /*unit_id*/107731, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"能、能不能讓我也，\n侍奉您呢？\n沒、沒什麼，剛才的話\n果然還是請您忘掉吧！");
+INSERT INTO `unit_comments` VALUES (/*id*/1078001, /*unit_id*/107801, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/5.8, /*change_face*/5, /*description*/"你說這泳裝很適合我？\n被你誇獎我也不會開心呢～\n不、不過…謝謝你");
+INSERT INTO `unit_comments` VALUES (/*id*/1078002, /*unit_id*/107801, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/2.0, /*change_face*/2, /*description*/"等這天等好久了！\n我要好好大玩特玩一番，\n做好覺悟吧！");
+INSERT INTO `unit_comments` VALUES (/*id*/1078003, /*unit_id*/107801, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/4.3, /*change_face*/2, /*description*/"這個泳圈，很可愛對吧\n坐起來也很舒服\n如果你怎麼樣都想坐的話，\n就讓你坐坐看吧？");
+INSERT INTO `unit_comments` VALUES (/*id*/1078004, /*unit_id*/107801, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/5.6, /*change_face*/5, /*description*/"和你在一起都不會感到無聊呢\n…你問我怎麼回事？\n這是，那個…\n就是代表在一起很開心啦！");
+INSERT INTO `unit_comments` VALUES (/*id*/1078005, /*unit_id*/107801, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/3.7, /*change_face*/2, /*description*/"要我偶爾陪你像這樣\n兩個人一起出來玩也可以呢\n我話先說在前面哦，\n你可是沒有拒絕的權力的♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1078006, /*unit_id*/107831, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"欸，欸─，泳圈是不是破洞了？\n漏氣了對不對！？　話說\n旁邊是不是還有魔物！？\n呀─！　不要靠過來啊！");
+INSERT INTO `unit_comments` VALUES (/*id*/1078007, /*unit_id*/107831, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"幹嘛擺出一臉想要什麼的表情\n你想喝這杯果汁嗎？\n真受不了你呢，\n只能喝一口哦？");
+INSERT INTO `unit_comments` VALUES (/*id*/1078008, /*unit_id*/107831, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"大汗淋漓後的飲料，\n真是最棒了\n哈─，真好喝♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1078009, /*unit_id*/107831, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"你看起來好像累了呢\n要不要坐上泳圈來，\n一起悠閒一下？");
+INSERT INTO `unit_comments` VALUES (/*id*/1078010, /*unit_id*/107831, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"總覺得，有種幸福的感覺\n或許該說，這也是都多虧了你？\n…那個，謝、謝謝…\n什、什麼都沒有啦！");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
