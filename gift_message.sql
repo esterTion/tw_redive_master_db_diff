@@ -148,3 +148,6 @@ INSERT INTO `gift_message` VALUES (/*id*/99495, /*discription*/"生放送獎勵"
 INSERT INTO `gift_message` VALUES (/*id*/99496, /*discription*/"來自營運團隊的獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99497, /*discription*/"MEME直播獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99498, /*discription*/"迎接2019跨年體力獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99499, /*discription*/"2019新年福袋隨機好禮。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99500, /*discription*/"初音大作戰獎勵包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99501, /*discription*/"二星公主碎片包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
