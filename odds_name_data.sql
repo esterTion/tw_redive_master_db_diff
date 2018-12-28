@@ -11,3 +11,5 @@ INSERT INTO `odds_name_data` VALUES (/*id*/9, /*odds_file*/1000320102, /*name*/"
 INSERT INTO `odds_name_data` VALUES (/*id*/10, /*odds_file*/1000420101, /*name*/"可可蘿(夏日)的記憶碎片", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/11, /*odds_file*/1000420102, /*name*/"咲戀的記憶碎片", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/12, /*odds_file*/"eq_rank_5-8", /*name*/"RANK5～8的裝備道具", /*icon_type*/99002, /*description*/"角色於RANK5～8中必要的裝備道具");
+INSERT INTO `odds_name_data` VALUES (/*id*/13, /*odds_file*/1000520101, /*name*/"美冬(夏日)的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/14, /*odds_file*/1000520102, /*name*/"秋乃的記憶碎片", /*icon_type*/99002, /*description*/"");
