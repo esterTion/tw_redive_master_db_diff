@@ -67,7 +67,9 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"HATSUNE_GACHA_RESULT", /*bg_id*/5003
 INSERT INTO `bg_data` VALUES (/*view_name*/"SELECT_SKIN", /*bg_id*/530010, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CARTOON", /*bg_id*/530030, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"TOWER_TOP", /*bg_id*/0, /*event_id*/0);
-INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_TOWER_TOP", /*bg_id*/0, /*event_id*/0);
-INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_TOWER_DETAIL", /*bg_id*/0, /*event_id*/0);
-INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_TOP", /*bg_id*/500370, /*event_id*/0);
-INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_LIST", /*bg_id*/500370, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_TOWER_TOP", /*bg_id*/530030, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"STORY_TOWER_DETAIL", /*bg_id*/530030, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_TOP", /*bg_id*/530050, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_CHANGE_LIST", /*bg_id*/530050, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_PURCHAES_LIST", /*bg_id*/530050, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"QUEST_UNIQUE_EQUIP", /*bg_id*/500253, /*event_id*/0);

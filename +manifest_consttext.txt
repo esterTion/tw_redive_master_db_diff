@@ -1,2 +1,2 @@
-a/consttext_const_text_download_all.unity3d,8d0c572979e13bede75edf3b0f89b1ba,tutorial2,88410,
-a/consttext_consttext.unity3d,ebc216eb8b349051d72872565661e194,tutorial0,54624,
+a/consttext_const_text_download_all.unity3d,c004807af8afe73e954dacf956a22f7e,tutorial2,92488,
+a/consttext_consttext.unity3d,539b42805736578d9130e8b92c5efe42,tutorial0,57591,

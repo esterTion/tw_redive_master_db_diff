@@ -26,3 +26,10 @@ INSERT INTO `campaign_schedule` VALUES (/*id*/24, /*campaign_category*/42, /*val
 INSERT INTO `campaign_schedule` VALUES (/*id*/25, /*campaign_category*/34, /*value*/2000.0, /*system_id*/103, /*icon_image*/30, /*start_time*/"2018/12/01 05:00:00", /*end_time*/"2018/12/11 04:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/26, /*campaign_category*/44, /*value*/2000.0, /*system_id*/103, /*icon_image*/40, /*start_time*/"2018/12/01 05:00:00", /*end_time*/"2018/12/11 04:59:59");
 INSERT INTO `campaign_schedule` VALUES (/*id*/27, /*campaign_category*/45, /*value*/2000.0, /*system_id*/104, /*icon_image*/40, /*start_time*/"2018/12/11 05:00:00", /*end_time*/"2018/12/21 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/28, /*campaign_category*/31, /*value*/2000.0, /*system_id*/101, /*icon_image*/30, /*start_time*/"2018/12/21 05:00:00", /*end_time*/"2018/12/26 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/29, /*campaign_category*/41, /*value*/2000.0, /*system_id*/101, /*icon_image*/40, /*start_time*/"2018/12/21 05:00:00", /*end_time*/"2018/12/26 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/30, /*campaign_category*/32, /*value*/2000.0, /*system_id*/102, /*icon_image*/30, /*start_time*/"2018/12/26 05:00:00", /*end_time*/"2018/12/31 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/31, /*campaign_category*/42, /*value*/2000.0, /*system_id*/102, /*icon_image*/40, /*start_time*/"2018/12/26 05:00:00", /*end_time*/"2018/12/31 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/32, /*campaign_category*/34, /*value*/2000.0, /*system_id*/103, /*icon_image*/30, /*start_time*/"2018/12/31 05:00:00", /*end_time*/"2019/01/11 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/33, /*campaign_category*/44, /*value*/2000.0, /*system_id*/103, /*icon_image*/40, /*start_time*/"2018/12/31 05:00:00", /*end_time*/"2019/01/11 04:59:59");
+INSERT INTO `campaign_schedule` VALUES (/*id*/34, /*campaign_category*/45, /*value*/2000.0, /*system_id*/104, /*icon_image*/40, /*start_time*/"2019/01/11 05:00:00", /*end_time*/"2019/01/22 04:59:59");

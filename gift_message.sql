@@ -8,6 +8,8 @@ INSERT INTO `gift_message` VALUES (/*id*/2006, /*discription*/"{0}月戰隊競�
 INSERT INTO `gift_message` VALUES (/*id*/2007, /*discription*/"{0}月戰隊競賽月間排名第{1}名的獎勵。", /*type_1*/10, /*type_2*/8, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2008, /*discription*/"在{0}中所獲得的獎勵。", /*type_1*/9, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2009, /*discription*/"{0}月戰隊競賽排名第{2}名的獎勵。", /*type_1*/10, /*type_2*/11, /*type_3*/7, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/2010, /*discription*/"補發「{0}」共{1}日的道具。", /*type_1*/1, /*type_2*/2, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/2011, /*discription*/"「{0}」第{1}日「{2}」中獲得的道具。", /*type_1*/1, /*type_2*/2, /*type_3*/16, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/3001, /*discription*/"開放公會小屋2樓時所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/3002, /*discription*/"開放公會小屋3樓時所獲得的道具。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9101, /*discription*/"來自營運團隊的誠意獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -24,6 +26,9 @@ INSERT INTO `gift_message` VALUES (/*id*/9208, /*discription*/"LinksMate 的遊�
 INSERT INTO `gift_message` VALUES (/*id*/9209, /*discription*/"LinksMate 的啟用特典。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9210, /*discription*/"LinksMate 的星星禮物。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9211, /*discription*/"「DMM 版事前登錄活動」的 10 萬人成就獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9212, /*discription*/"廣播劇1周年紀念生放送內單元的特別禮物。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9213, /*discription*/"運営からギルドハウスアイテムのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9214, /*discription*/"「公式生放送　2018　秋」内コーナーの特別プレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9301, /*discription*/"超過持有上限後所獲得的體力獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9302, /*discription*/"競技場的防守獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9303, /*discription*/"公主競技場的防守獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -44,6 +49,7 @@ INSERT INTO `gift_message` VALUES (/*id*/9504, /*discription*/"初次擊倒活�
 INSERT INTO `gift_message` VALUES (/*id*/9505, /*discription*/"擊倒活動Boss「{1}」後所獲得的道具。", /*type_1*/13, /*type_2*/15, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9506, /*discription*/"達成活動任務後所獲得的道具。", /*type_1*/13, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9507, /*discription*/"在「{1}」中所獲得的道具。", /*type_1*/13, /*type_2*/12, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9508, /*discription*/"在「{0}」中所獲得的道具。", /*type_1*/13, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99401, /*discription*/"每日瑪那禮包的獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99402, /*discription*/"每日轉蛋禮包的獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99403, /*discription*/"每週轉蛋禮包的獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
