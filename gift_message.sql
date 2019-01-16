@@ -152,3 +152,7 @@ INSERT INTO `gift_message` VALUES (/*id*/99499, /*discription*/"2019新年福袋
 INSERT INTO `gift_message` VALUES (/*id*/99500, /*discription*/"初音大作戰獎勵包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99501, /*discription*/"二星公主碎片包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99502, /*discription*/"小小甜心獎勵包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99503, /*discription*/"光泉鮮奶合作獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99504, /*discription*/"吸血鬼獵人獎勵包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99505, /*discription*/"TGS紀念禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99506, /*discription*/"TGS活動獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
