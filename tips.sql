@@ -3,6 +3,7 @@ INSERT INTO `tips` VALUES (/*id*/4100101, /*value*/100101, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4100201, /*value*/100201, /*tips_index*/1, /*title*/"打瞌睡的優衣");
 INSERT INTO `tips` VALUES (/*id*/4100301, /*value*/100301, /*tips_index*/1, /*title*/"其實喜歡釣魚");
 INSERT INTO `tips` VALUES (/*id*/4100401, /*value*/100401, /*tips_index*/1, /*title*/"惡作劇女孩");
+INSERT INTO `tips` VALUES (/*id*/4100501, /*value*/100501, /*tips_index*/1, /*title*/"擺姿勢的練習！");
 INSERT INTO `tips` VALUES (/*id*/4100601, /*value*/100601, /*tips_index*/1, /*title*/"想要一起去");
 INSERT INTO `tips` VALUES (/*id*/4100701, /*value*/100701, /*tips_index*/1, /*title*/"「做布丁吧」的靈氣");
 INSERT INTO `tips` VALUES (/*id*/4100801, /*value*/100801, /*tips_index*/1, /*title*/"自信滿滿");
