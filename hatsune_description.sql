@@ -16,3 +16,6 @@ INSERT INTO `hatsune_description` VALUES (/*id*/14, /*event_id*/10005, /*type*/1
 INSERT INTO `hatsune_description` VALUES (/*id*/15, /*event_id*/10005, /*type*/1, /*description*/"達成活動限定的任務後，可解放的角色\n即會登場。在活動期間內\n以完成任務為目標吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/16, /*event_id*/10005, /*type*/1, /*description*/"強大的VERY HARD Boss登場。\nVERY HARD Boss１天能夠討伐１隻。\n做好萬全準備後，小心地進行挑戰吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/17, /*event_id*/10005, /*type*/1, /*description*/"交換討伐證將是得到獎勵的契機。\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\n多多蒐集，將角色變成夥伴吧。");
+INSERT INTO `hatsune_description` VALUES (/*id*/18, /*event_id*/10006, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情會將於進入活動冒險後解放。");
+INSERT INTO `hatsune_description` VALUES (/*id*/19, /*event_id*/10006, /*type*/1, /*description*/"強大的VERY HARD Boss登場。\nVERY HARD Boss１天能夠討伐１隻。\n做好萬全準備後，小心地進行挑戰吧。");
+INSERT INTO `hatsune_description` VALUES (/*id*/20, /*event_id*/10006, /*type*/1, /*description*/"交換討伐證將是得到獎勵的契機。\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\n多多蒐集，將角色變成夥伴吧。");

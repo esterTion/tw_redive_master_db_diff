@@ -27,8 +27,8 @@ INSERT INTO `gift_message` VALUES (/*id*/9209, /*discription*/"LinksMate 的啟�
 INSERT INTO `gift_message` VALUES (/*id*/9210, /*discription*/"LinksMate 的星星禮物。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9211, /*discription*/"「DMM 版事前登錄活動」的 10 萬人成就獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9212, /*discription*/"廣播劇1周年紀念生放送內單元的特別禮物。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/9213, /*discription*/"運営からギルドハウスアイテムのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/9214, /*discription*/"「公式生放送　2018　秋」内コーナーの特別プレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9213, /*discription*/"營運團隊所贈送的公會小屋道具的禮物。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9214, /*discription*/"「官方直播 2018 秋」單元中的特別禮物。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9301, /*discription*/"超過持有上限後所獲得的體力獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9302, /*discription*/"競技場的防守獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9303, /*discription*/"公主競技場的防守獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -157,3 +157,8 @@ INSERT INTO `gift_message` VALUES (/*id*/99504, /*discription*/"吸血鬼獵人�
 INSERT INTO `gift_message` VALUES (/*id*/99505, /*discription*/"TGS紀念禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99506, /*discription*/"TGS活動獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99507, /*discription*/"7-11 iBonAPP活動獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99508, /*discription*/"豬年精選超值紅包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99509, /*discription*/"平台限定新年禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99510, /*discription*/"領取時隨機獲得獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99511, /*discription*/"女神秘石量販包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99512, /*discription*/"瑪那新年量販包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

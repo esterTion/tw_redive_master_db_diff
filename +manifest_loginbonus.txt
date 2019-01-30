@@ -1,5 +1,5 @@
 a/loginbonus_ef_white_glow.unity3d,733b0515bbd35999e590e057f238fa9e,common,6775,
-a/loginbonus_logo_40001.unity3d,5e09dc617675bde6a07c27e83de38460,common,137818,
+a/loginbonus_logo_40001.unity3d,533e1da17da622ee2c46a6d91382bdf0,common,43820,
 a/loginbonus_logo_glow_40001.unity3d,3b08b41dd0a5860ddecc0fd94ba5f63a,common,24667,
 a/loginbonus_stamp_0000.unity3d,d46a5f04ae1e71c9f40ec67ea79f098d,common,6200,
 a/loginbonus_stamp_0001.unity3d,9ce21554a03ea742250cfa5d4a465188,common,6507,

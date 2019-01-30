@@ -10,7 +10,7 @@ a/event_btn_circle_event_10006.unity3d,5bec56eba0d974a5592c0aadb3e12b39,common,5
 a/event_btn_circle_event_10007.unity3d,3bd9cb94044cc20474ef85453acc20c5,common,6558,
 a/event_btn_circle_event_10008.unity3d,298b67f042ce46331cb315e85820e23e,common,6146,
 a/event_btn_circle_event_tex_10005.unity3d,5478a20f2b92db7ef4c51b514176f2d4,common,2916,
-a/event_btn_circle_event_tex_10006.unity3d,8101bc3303d1953d333662bb058ede35,common,3024,
+a/event_btn_circle_event_tex_10006.unity3d,9f3479b2a7abc347cc9c21ff46f664cb,common,2916,
 a/event_btn_circle_event_tex_10007.unity3d,27a237f5b0398e0c1641a1ae6ffbcd60,common,2921,
 a/event_btn_circle_event_tex_10008.unity3d,243bc2d3f966fa435082a20944660523,common,2921,
 a/event_btn_event_effect_10001.unity3d,c8022ac801d6e9b7baaa90aef4b9bb21,common,4083,
