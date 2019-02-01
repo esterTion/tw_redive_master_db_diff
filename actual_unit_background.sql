@@ -46,7 +46,7 @@ INSERT INTO `actual_unit_background` VALUES (/*unit_id*/105131, /*unit_name*/"�
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/105231, /*unit_name*/"莉瑪", /*bg_id*/510100, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/105331, /*unit_name*/"莫妮卡・拜斯溫特", /*bg_id*/510340, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/105432, /*unit_name*/"繭宮 紡希", /*bg_id*/510351, /*face_type*/4);
-INSERT INTO `actual_unit_background` VALUES (/*unit_id*/105731, /*unit_name*/"姬塔", /*bg_id*/510230, /*face_type*/2);
+INSERT INTO `actual_unit_background` VALUES (/*unit_id*/105731, /*unit_name*/"吉塔", /*bg_id*/510230, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/105831, /*unit_name*/"尤絲蒂亞娜‧F‧阿斯特賴亞", /*bg_id*/510300, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/105931, /*unit_name*/"棗 可蘿", /*bg_id*/510120, /*face_type*/2);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/106031, /*unit_name*/"百地 希留耶", /*bg_id*/510350, /*face_type*/2);
