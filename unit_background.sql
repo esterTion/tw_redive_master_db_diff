@@ -63,3 +63,6 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/107701, /*unit_name*/"鈴莓（
 INSERT INTO `unit_background` VALUES (/*unit_id*/107801, /*unit_name*/"凱留（夏日）", /*bg_id*/500164, /*bg_name*/"瑪爾傑海岸", /*position*/0.0, /*face_type*/6);
 INSERT INTO `unit_background` VALUES (/*unit_id*/107901, /*unit_name*/"珠希（夏日）", /*bg_id*/500284, /*bg_name*/"無人島", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/108001, /*unit_name*/"美冬（夏日）", /*bg_id*/500284, /*bg_name*/"無人島", /*position*/0.0, /*face_type*/2);
+INSERT INTO `unit_background` VALUES (/*unit_id*/108101, /*unit_name*/"忍（萬聖節）", /*bg_id*/500264, /*bg_name*/"古城 萬聖節", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/108201, /*unit_name*/"宮子（萬聖節）", /*bg_id*/500264, /*bg_name*/"古城 萬聖節", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/108301, /*unit_name*/"美咲（萬聖節）", /*bg_id*/505030, /*bg_name*/"蘭德索爾 繁華街 萬聖節", /*position*/0.0, /*face_type*/2);
