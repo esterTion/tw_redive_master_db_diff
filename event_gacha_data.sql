@@ -4,4 +4,5 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10002, /*event_id*/10002, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10004, /*event_id*/10004, /*gacha_name*/"危險的假期！海岸邊的美食公主", /*item_type*/2, /*item_id*/60032, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10005, /*event_id*/10005, /*gacha_name*/"珠希與美冬的無人島０盧幣生活", /*item_type*/2, /*item_id*/60042, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10006, /*event_id*/10006, /*gacha_name*/"黑鐵的亡靈", /*item_type*/2, /*item_id*/60052, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10007, /*event_id*/10007, /*gacha_name*/"不給布丁就搗蛋！約定的萬聖節派對", /*item_type*/2, /*item_id*/60062, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"吸血鬼獵人 with伊莉亞 討伐證交換", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);

@@ -112,4 +112,14 @@ INSERT INTO `mission_reward_data` VALUES (/*id*/131, /*mission_reward_id*/209040
 INSERT INTO `mission_reward_data` VALUES (/*id*/132, /*mission_reward_id*/20904011, /*reward_type*/2, /*reward_id*/31081, /*reward_num*/40);
 INSERT INTO `mission_reward_data` VALUES (/*id*/133, /*mission_reward_id*/20904012, /*reward_type*/2, /*reward_id*/31081, /*reward_num*/50);
 INSERT INTO `mission_reward_data` VALUES (/*id*/134, /*mission_reward_id*/20904013, /*reward_type*/2, /*reward_id*/90005, /*reward_num*/200);
+INSERT INTO `mission_reward_data` VALUES (/*id*/135, /*mission_reward_id*/20904014, /*reward_type*/2, /*reward_id*/31083, /*reward_num*/10);
+INSERT INTO `mission_reward_data` VALUES (/*id*/136, /*mission_reward_id*/20904015, /*reward_type*/2, /*reward_id*/31083, /*reward_num*/20);
+INSERT INTO `mission_reward_data` VALUES (/*id*/137, /*mission_reward_id*/20904016, /*reward_type*/2, /*reward_id*/31083, /*reward_num*/30);
+INSERT INTO `mission_reward_data` VALUES (/*id*/138, /*mission_reward_id*/20904017, /*reward_type*/2, /*reward_id*/31083, /*reward_num*/40);
+INSERT INTO `mission_reward_data` VALUES (/*id*/139, /*mission_reward_id*/20904018, /*reward_type*/2, /*reward_id*/31083, /*reward_num*/50);
+INSERT INTO `mission_reward_data` VALUES (/*id*/140, /*mission_reward_id*/20904019, /*reward_type*/2, /*reward_id*/90005, /*reward_num*/200);
+INSERT INTO `mission_reward_data` VALUES (/*id*/141, /*mission_reward_id*/20903010, /*reward_type*/2, /*reward_id*/90005, /*reward_num*/25);
+INSERT INTO `mission_reward_data` VALUES (/*id*/142, /*mission_reward_id*/20903011, /*reward_type*/2, /*reward_id*/90005, /*reward_num*/25);
+INSERT INTO `mission_reward_data` VALUES (/*id*/143, /*mission_reward_id*/20903012, /*reward_type*/2, /*reward_id*/90005, /*reward_num*/25);
+INSERT INTO `mission_reward_data` VALUES (/*id*/144, /*mission_reward_id*/20903013, /*reward_type*/2, /*reward_id*/31083, /*reward_num*/150);
 CREATE INDEX 'mission_reward_data_0_mission_reward_id' on 'mission_reward_data'('mission_reward_id');
