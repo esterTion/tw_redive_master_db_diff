@@ -29,5 +29,6 @@ INSERT INTO `quest_area_data` VALUES (/*area_id*/12012, /*area_name*/"12.波諾�
 INSERT INTO `quest_area_data` VALUES (/*area_id*/12013, /*area_name*/"13.朵羅西亞溼地", /*map_type*/101, /*sheet_id*/"bgm_M118", /*que_id*/"bgm_M118", /*start_time*/"2019/01/03 16:00:00", /*end_time*/"2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (/*area_id*/12014, /*area_name*/"14.尤金尼亞熱地", /*map_type*/101, /*sheet_id*/"bgm_M95", /*que_id*/"bgm_M95", /*start_time*/"2019/01/30 16:00:00", /*end_time*/"2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (/*area_id*/12015, /*area_name*/"15.塔利亞火山", /*map_type*/101, /*sheet_id*/"bgm_M96", /*que_id*/"bgm_M96", /*start_time*/"2019/02/18 16:00:00", /*end_time*/"2030/12/17 14:59:59");
+INSERT INTO `quest_area_data` VALUES (/*area_id*/18001, /*area_name*/"專用冒險", /*map_type*/0, /*sheet_id*/"", /*que_id*/"", /*start_time*/"2019/03/06 16:00:00", /*end_time*/"2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (/*area_id*/21001, /*area_name*/"瑪那冒險", /*map_type*/0, /*sheet_id*/"", /*que_id*/"", /*start_time*/"2015/12/17 15:00:00", /*end_time*/"2030/12/17 14:59:59");
 INSERT INTO `quest_area_data` VALUES (/*area_id*/21002, /*area_name*/"經驗值冒險", /*map_type*/0, /*sheet_id*/"", /*que_id*/"", /*start_time*/"2015/12/17 15:00:00", /*end_time*/"2030/12/17 14:59:59");

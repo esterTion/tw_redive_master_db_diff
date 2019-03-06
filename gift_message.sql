@@ -162,3 +162,6 @@ INSERT INTO `gift_message` VALUES (/*id*/99509, /*discription*/"平台限定新�
 INSERT INTO `gift_message` VALUES (/*id*/99510, /*discription*/"領取時隨機獲得獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99511, /*discription*/"女神秘石量販包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99512, /*discription*/"瑪那新年量販包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99513, /*discription*/"戰隊競賽TOP30加碼獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99514, /*discription*/"公主慶典大樂透獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99515, /*discription*/"60萬DL紀念禮包超值好禮。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

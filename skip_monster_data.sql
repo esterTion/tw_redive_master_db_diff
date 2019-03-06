@@ -398,13 +398,17 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12014003, /*area_id*/12014, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12015001, /*area_id*/12015, /*quest_name*/"塔利亞火山 15-1", /*wave_group_id_1*/101151006, /*bg_skip_id*/100381);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12015002, /*area_id*/12015, /*quest_name*/"塔利亞火山 15-2", /*wave_group_id_1*/101151006, /*bg_skip_id*/100191);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12015003, /*area_id*/12015, /*quest_name*/"塔利亞火山 15-3", /*wave_group_id_1*/101151006, /*bg_skip_id*/100197);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001001, /*area_id*/18001, /*quest_name*/"專用裝備冒險1", /*wave_group_id_1*/108010108, /*bg_skip_id*/101331);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001002, /*area_id*/18001, /*quest_name*/"專用裝備冒險2", /*wave_group_id_1*/108010208, /*bg_skip_id*/101341);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001001, /*area_id*/21001, /*quest_name*/"瑪那冒險Lv1", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001002, /*area_id*/21001, /*quest_name*/"瑪那冒險Lv2", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001003, /*area_id*/21001, /*quest_name*/"瑪那冒險Lv3", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001004, /*area_id*/21001, /*quest_name*/"瑪那冒險Lv4", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001005, /*area_id*/21001, /*quest_name*/"瑪那冒險Lv5", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001006, /*area_id*/21001, /*quest_name*/"瑪那冒險Lv6", /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002001, /*area_id*/21002, /*quest_name*/"經驗值冒險Lv1", /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002002, /*area_id*/21002, /*quest_name*/"經驗值冒險Lv2", /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002003, /*area_id*/21002, /*quest_name*/"經驗值冒險Lv3", /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002004, /*area_id*/21002, /*quest_name*/"經驗值冒險Lv4", /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002005, /*area_id*/21002, /*quest_name*/"經驗值冒險Lv5", /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002006, /*area_id*/21002, /*quest_name*/"經驗值冒險Lv6", /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
