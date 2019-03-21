@@ -2434,7 +2434,7 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/2591, /*unit_id*/108201, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/2592, /*unit_id*/108201, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"在這裡，\n就可以製作\n考布丁來的！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2594, /*unit_id*/108201, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"肚子餓了\n就沒辦法\n參加萬聖節來的！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2595, /*unit_id*/108201, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"用整顆南瓜\n下去製作的布丁特集！？\n好像很好吃來的～♪", /*insert_word_type*/0);
-INSERT INTO `room_unit_comments` VALUES (/*id*/2597, /*unit_id*/108201, /*trigger*/3, /*voice_id*/12, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"甜點很多，\宮子非～常\n開心來的♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/2597, /*unit_id*/108201, /*trigger*/3, /*voice_id*/12, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"甜點很多，宮子非～常\n開心來的♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2599, /*unit_id*/108301, /*trigger*/1, /*voice_id*/1, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"除了魔女以外，\n人家還想變裝\n成各種角色呢", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2600, /*unit_id*/108301, /*trigger*/1, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"比起巧克力或糖果，\n應該有其他更適合我的\n甜點才對…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/2601, /*unit_id*/108301, /*trigger*/1, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"吃太多點心的話，\n可能會\n被媽媽罵…", /*insert_word_type*/0);
