@@ -138,4 +138,10 @@ INSERT INTO `mission_reward_data` VALUES (/*id*/151, /*mission_reward_id*/209040
 INSERT INTO `mission_reward_data` VALUES (/*id*/152, /*mission_reward_id*/20904022, /*reward_type*/2, /*reward_id*/31056, /*reward_num*/30);
 INSERT INTO `mission_reward_data` VALUES (/*id*/153, /*mission_reward_id*/20904023, /*reward_type*/2, /*reward_id*/31056, /*reward_num*/40);
 INSERT INTO `mission_reward_data` VALUES (/*id*/154, /*mission_reward_id*/20904024, /*reward_type*/2, /*reward_id*/31056, /*reward_num*/50);
+INSERT INTO `mission_reward_data` VALUES (/*id*/155, /*mission_reward_id*/20903015, /*reward_type*/2, /*reward_id*/31084, /*reward_num*/150);
+INSERT INTO `mission_reward_data` VALUES (/*id*/156, /*mission_reward_id*/20904025, /*reward_type*/2, /*reward_id*/31084, /*reward_num*/10);
+INSERT INTO `mission_reward_data` VALUES (/*id*/157, /*mission_reward_id*/20904026, /*reward_type*/2, /*reward_id*/31084, /*reward_num*/20);
+INSERT INTO `mission_reward_data` VALUES (/*id*/158, /*mission_reward_id*/20904027, /*reward_type*/2, /*reward_id*/31084, /*reward_num*/30);
+INSERT INTO `mission_reward_data` VALUES (/*id*/159, /*mission_reward_id*/20904028, /*reward_type*/2, /*reward_id*/31084, /*reward_num*/40);
+INSERT INTO `mission_reward_data` VALUES (/*id*/160, /*mission_reward_id*/20904029, /*reward_type*/2, /*reward_id*/31084, /*reward_num*/50);
 CREATE INDEX 'mission_reward_data_0_mission_reward_id' on 'mission_reward_data'('mission_reward_id');

@@ -6,7 +6,7 @@ a/loginbonus_logo_glow_40001.unity3d,3b08b41dd0a5860ddecc0fd94ba5f63a,common,246
 a/loginbonus_logoeffect_00000.unity3d,c31f0e2f2419bd33ec3244517447cadc,common,1264509,
 a/loginbonus_logoeffect_40003.unity3d,e7a857ca25b759588d1c86f6385f0a4e,common,1308272,
 a/loginbonus_logoeffect_40004.unity3d,c61ac954176299f6b7e7ac7b96afc946,common,1306893,
-a/loginbonus_logoeffect_49001.unity3d,3cbba34a80a155a815188787a4a370af,common,1275877,
+a/loginbonus_logoeffect_49001.unity3d,b5d50f9d24b07212c912cb0a0cdcf618,common,1280150,
 a/loginbonus_logoeffect_60000.unity3d,e78ce4a6fb2951f73f37e21800aeda3f,common,1672498,
 a/loginbonus_logoeffect_common.unity3d,138ab761ca1fe2fa0da369f6f56fdd13,common,6793,
 a/loginbonus_stamp_0000.unity3d,d46a5f04ae1e71c9f40ec67ea79f098d,common,6200,

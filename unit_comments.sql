@@ -639,5 +639,15 @@ INSERT INTO `unit_comments` VALUES (/*id*/1083007, /*unit_id*/108331, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1083008, /*unit_id*/108331, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"人家我身上漫出來的成人級魅力，\n讓每個人都會目不轉睛呢～\n真沒辦法啊…畢竟人家我，\n現在是魅力四射啊！");
 INSERT INTO `unit_comments` VALUES (/*id*/1083009, /*unit_id*/108331, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"今天我就招待你去派對吧！\n到會場的路上，\n你要好好護送我喔♪");
 INSERT INTO `unit_comments` VALUES (/*id*/1083010, /*unit_id*/108331, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"今年的萬聖節太棒了！\n有派對有糖果有扮裝！\n而且除了那些…\n還有你在嘛！");
+INSERT INTO `unit_comments` VALUES (/*id*/1084001, /*unit_id*/108401, /*use_type*/1, /*voice_id*/1, /*face_id*/2, /*change_time*/1.8, /*change_face*/1, /*description*/"聖誕節快樂！\n希望在你的身邊\n會有幸福的歌曲縈繞…");
+INSERT INTO `unit_comments` VALUES (/*id*/1084002, /*unit_id*/108401, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/2.9, /*change_face*/2, /*description*/"跟你一起過\n這聖誕節…\n我非常期待");
+INSERT INTO `unit_comments` VALUES (/*id*/1084003, /*unit_id*/108401, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/5.3, /*change_face*/5, /*description*/"身為吟遊詩人，我希望能成為更可靠的存在…\n請務必在旁邊看著我");
+INSERT INTO `unit_comments` VALUES (/*id*/1084004, /*unit_id*/108401, /*use_type*/1, /*voice_id*/4, /*face_id*/5, /*change_time*/5.7, /*change_face*/2, /*description*/"這件服裝還蠻顯眼的\n感覺好羞恥…\n但是如果是讓你看的話\n我應該也能喜歡");
+INSERT INTO `unit_comments` VALUES (/*id*/1084005, /*unit_id*/108401, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/5.7, /*change_face*/5, /*description*/"因為有你在我身邊\n我就能集中在歌上…\n這份心意、早晚會透過歌唱\n傳達給你的…");
+INSERT INTO `unit_comments` VALUES (/*id*/1084006, /*unit_id*/108431, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"聖誕節快樂！\n將我所有的心意都灌注到歌唱上…請你仔細聽囉");
+INSERT INTO `unit_comments` VALUES (/*id*/1084007, /*unit_id*/108431, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"如果能將這聖誕節\n用幸福的歌來增色的話…\n身為吟遊詩人沒有更高的榮幸了");
+INSERT INTO `unit_comments` VALUES (/*id*/1084008, /*unit_id*/108431, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"為了守護和平…還有\n為了讓人人都至少有一絲幸福\n我會繼續唱歌");
+INSERT INTO `unit_comments` VALUES (/*id*/1084009, /*unit_id*/108431, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"我的歌聲的可能性…\n我現在相信了\n因為，有你\n這麼相信我…");
+INSERT INTO `unit_comments` VALUES (/*id*/1084010, /*unit_id*/108431, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"不管是多麼細微的感情，\n我都想跟你分享\n要是，你不在我身邊\n也許就不行了呢，我…");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');

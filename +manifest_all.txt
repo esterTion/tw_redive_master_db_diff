@@ -1616,7 +1616,7 @@ a/all_worldmap_01000701.unity3d,6af010a4ddb773628f2e903dca7b123c,tutorial1,23593
 a/all_worldmap_01000702.unity3d,c4cf21654eddfdebea5c2a329132040f,tutorial1,4448696,
 a/all_worldmap_01000703.unity3d,e1dc0caed42391396e435a8fd90d8a52,tutorial1,2371397,
 a/all_worldmap_010008.unity3d,7124840f1eaa2804d712f078c8411074,tutorial1,4132946,
-a/all_worldmap_01000801.unity3d,d120531d2e499a0c03b7f217225860fd,tutorial1,4168634,
+a/all_worldmap_01000801.unity3d,f542c8671233a1fc47dfeea95c764dc1,tutorial1,4168647,
 a/all_worldmap_01000901.unity3d,2b9ba2b7c642c5ac91067da6885d1367,tutorial1,8707439,
 a/all_worldmap_01001001.unity3d,a9051d634bea7d3785b9856e3847c0b0,tutorial1,7307994,
 a/all_worldmap_common.unity3d,180249c5acbd4880398b70c59cd69dfb,tutorial1,110766,
