@@ -8,4 +8,5 @@ INSERT INTO `mission_condition_data` VALUES (/*id*/6, /*condition_group_id*/9040
 INSERT INTO `mission_condition_data` VALUES (/*id*/7, /*condition_group_id*/9010001, /*relation_id*/91001, /*condition_value*/0);
 INSERT INTO `mission_condition_data` VALUES (/*id*/8, /*condition_group_id*/9020001, /*relation_id*/91001, /*condition_value*/0);
 INSERT INTO `mission_condition_data` VALUES (/*id*/9, /*condition_group_id*/9020001, /*relation_id*/91002, /*condition_value*/0);
+INSERT INTO `mission_condition_data` VALUES (/*id*/10, /*condition_group_id*/9040004, /*relation_id*/11101, /*condition_value*/0);
 CREATE INDEX 'mission_condition_data_0_condition_group_id' on 'mission_condition_data'('condition_group_id');
