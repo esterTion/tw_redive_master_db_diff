@@ -649,5 +649,15 @@ INSERT INTO `unit_comments` VALUES (/*id*/1084007, /*unit_id*/108431, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1084008, /*unit_id*/108431, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"為了守護和平…還有\n為了讓人人都至少有一絲幸福\n我會繼續唱歌");
 INSERT INTO `unit_comments` VALUES (/*id*/1084009, /*unit_id*/108431, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"我的歌聲的可能性…\n我現在相信了\n因為，有你\n這麼相信我…");
 INSERT INTO `unit_comments` VALUES (/*id*/1084010, /*unit_id*/108431, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"不管是多麼細微的感情，\n我都想跟你分享\n要是，你不在我身邊\n也許就不行了呢，我…");
+INSERT INTO `unit_comments` VALUES (/*id*/1086001, /*unit_id*/108601, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/4.0, /*change_face*/2, /*description*/"聖誕節快樂♪\n哥哥你看你看！\n噗吉也跟我一樣、\n穿著聖誕節造型囉♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1086002, /*unit_id*/108601, /*use_type*/1, /*voice_id*/2, /*face_id*/2, /*change_time*/2.7, /*change_face*/5, /*description*/"好溫暖～喔♪\n聖誕節的洋裝，\n噗吉也好合身喔～♪\n『讓我的心火都燒起來哩』");
+INSERT INTO `unit_comments` VALUES (/*id*/1086003, /*unit_id*/108601, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/9.6, /*change_face*/5, /*description*/"聖誕老公公送的禮物…\n大大隻的火雞\n還有甜滋滋的蛋糕…\n果然，還是聖誕節最好囉～♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1086004, /*unit_id*/108601, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/3.1, /*change_face*/3, /*description*/"聖誕節的大餐真期待啊～♪\n…我總覺得，哥哥你會覺得\n我只顧著一直吃！\n我也是會下廚的！");
+INSERT INTO `unit_comments` VALUES (/*id*/1086005, /*unit_id*/108601, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/5.8, /*change_face*/5, /*description*/"今年的聖誕節，\n不只是噗吉，\n連哥哥也在…耶嘿嘿♪\n好像會特別幸福的感覺♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1086006, /*unit_id*/108631, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"穿了聖誕節的洋裝，\n噗吉也變得\n更加可愛了呢♪\n『這就叫嬌小玲瓏吧？』");
+INSERT INTO `unit_comments` VALUES (/*id*/1086007, /*unit_id*/108631, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"呵呵呵…看看這個王冠！\n聖誕節的我就是國王啦♪\n所以哥哥，\n請你盡量疼愛我不要保留♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1086008, /*unit_id*/108631, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"噗吉大家族完成～♪\n這邊是噗爸與噗吉…\n那邊是噗媽媽與噗哥…\n不是、就是哥哥♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1086009, /*unit_id*/108631, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"堆雪人弄得手好冰啊…\n對哥哥摸一～下♪\n耶嘿嘿…果然\n哥哥很溫暖呢♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1086010, /*unit_id*/108631, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"等變溫暖之後，\n雪人也就會消失了…\n但是我們會一直在一起的呢，\n哥哥♪");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
