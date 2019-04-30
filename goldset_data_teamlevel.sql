@@ -109,3 +109,5 @@ INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/107, /*team_level*/107, /*ini
 INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/108, /*team_level*/108, /*initial_get_gold_count*/0);
 INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/109, /*team_level*/109, /*initial_get_gold_count*/0);
 INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/110, /*team_level*/110, /*initial_get_gold_count*/0);
+INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/111, /*team_level*/111, /*initial_get_gold_count*/0);
+INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/112, /*team_level*/112, /*initial_get_gold_count*/0);
