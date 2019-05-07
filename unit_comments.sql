@@ -669,5 +669,15 @@ INSERT INTO `unit_comments` VALUES (/*id*/1086007, /*unit_id*/108631, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1086008, /*unit_id*/108631, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"噗吉大家族完成～♪\n這邊是噗爸與噗吉…\n那邊是噗媽媽與噗哥…\n不是、就是哥哥♪");
 INSERT INTO `unit_comments` VALUES (/*id*/1086009, /*unit_id*/108631, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"堆雪人弄得手好冰啊…\n對哥哥摸一～下♪\n耶嘿嘿…果然\n哥哥很溫暖呢♪");
 INSERT INTO `unit_comments` VALUES (/*id*/1086010, /*unit_id*/108631, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"等變溫暖之後，\n雪人也就會消失了…\n但是我們會一直在一起的呢，\n哥哥♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1088001, /*unit_id*/108801, /*use_type*/1, /*voice_id*/1, /*face_id*/2, /*change_time*/4.7, /*change_face*/1, /*description*/"新年快樂！\n騎士先生。今年也多多指教囉。\n你已經求過籤了嗎？");
+INSERT INTO `unit_comments` VALUES (/*id*/1088002, /*unit_id*/108801, /*use_type*/1, /*voice_id*/2, /*face_id*/3, /*change_time*/5.1, /*change_face*/1, /*description*/"在新年也不能鬆懈，\n要修行魔法才行……\n今年我想要變得更厲害。");
+INSERT INTO `unit_comments` VALUES (/*id*/1088003, /*unit_id*/108801, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/3.1, /*change_face*/2, /*description*/"騎士先生，你不冷嗎？\n如果你需要防寒魔法，\n隨時都能跟我說喔！");
+INSERT INTO `unit_comments` VALUES (/*id*/1088004, /*unit_id*/108801, /*use_type*/1, /*voice_id*/4, /*face_id*/5, /*change_time*/7.4, /*change_face*/8, /*description*/"真羨慕……戀人一起來參拜。\n總有一天我也要……\n沒有，我什麼都沒說！");
+INSERT INTO `unit_comments` VALUES (/*id*/1088005, /*unit_id*/108801, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/7.8, /*change_face*/5, /*description*/"今年的戀愛運是……\n「應該要抓住對方的胃」\n……騎士先生，你肚子餓了嗎？");
+INSERT INTO `unit_comments` VALUES (/*id*/1088006, /*unit_id*/108831, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"騎士先生，去年多謝你了！\n今年也多多指教囉！\n明年……還有以後也是！");
+INSERT INTO `unit_comments` VALUES (/*id*/1088007, /*unit_id*/108831, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"……希望你能來這裡呢。\n因、因為風又強又冷！\n……你能待在我身邊嗎？");
+INSERT INTO `unit_comments` VALUES (/*id*/1088008, /*unit_id*/108831, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"新年的日出真美呀……\n……騎士先生？　怎麼了嗎？\n太陽很耀眼吧？");
+INSERT INTO `unit_comments` VALUES (/*id*/1088009, /*unit_id*/108831, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"我跟你說唷，　我想像今天一樣\n每年都和騎士先生\n……一起看日出！\n……我在亂說什麼啊～！");
+INSERT INTO `unit_comments` VALUES (/*id*/1088010, /*unit_id*/108831, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"騎士先生。其實我啊……\n和騎士先生在一起的每個瞬間\n都覺得很幸福……！\n……我剛才說出來了……！？");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
