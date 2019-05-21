@@ -111,3 +111,11 @@ INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/109, /*team_level*/109, /*ini
 INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/110, /*team_level*/110, /*initial_get_gold_count*/0);
 INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/111, /*team_level*/111, /*initial_get_gold_count*/0);
 INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/112, /*team_level*/112, /*initial_get_gold_count*/0);
+INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/113, /*team_level*/113, /*initial_get_gold_count*/0);
+INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/114, /*team_level*/114, /*initial_get_gold_count*/0);
+INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/115, /*team_level*/115, /*initial_get_gold_count*/0);
+INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/116, /*team_level*/116, /*initial_get_gold_count*/0);
+INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/117, /*team_level*/117, /*initial_get_gold_count*/0);
+INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/118, /*team_level*/118, /*initial_get_gold_count*/0);
+INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/119, /*team_level*/119, /*initial_get_gold_count*/0);
+INSERT INTO `goldset_data_teamlevel` VALUES (/*id*/120, /*team_level*/120, /*initial_get_gold_count*/0);
