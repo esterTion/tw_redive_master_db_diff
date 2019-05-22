@@ -165,3 +165,16 @@ INSERT INTO `gift_message` VALUES (/*id*/99512, /*discription*/"瑪那新年量�
 INSERT INTO `gift_message` VALUES (/*id*/99513, /*discription*/"戰隊競賽TOP30加碼獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99514, /*discription*/"公主慶典大樂透獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99515, /*discription*/"60萬DL紀念禮包超值好禮。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99516, /*discription*/"實體換虛寶等值獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99517, /*discription*/"公主之心碎片每日禮包的獎勵。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99518, /*discription*/"公主之心碎片禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99519, /*discription*/"宮子(萬聖節)碎片禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99520, /*discription*/"春假瑪那量販包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99521, /*discription*/"佩可生日紀念-贈送獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99522, /*discription*/"巴哈姆特金賞紀念-登入獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99523, /*discription*/"金賞公主資源包獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99524, /*discription*/"春假精選超值福袋", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99525, /*discription*/"統一布丁合作獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99526, /*discription*/"玩家見面會活動獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99527, /*discription*/"胡桃(聖誕節)碎片禮包", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99528, /*discription*/"巴哈姆特-歐非占卜獎勵", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

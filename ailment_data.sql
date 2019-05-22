@@ -13,7 +13,9 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/11, /*ailment_action*/9, /*ailm
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/12, /*ailment_action*/9, /*ailment_detail_1*/2, /*ailment_name*/"火傷");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/13, /*ailment_action*/9, /*ailment_detail_1*/3, /*ailment_name*/"詛咒");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/14, /*ailment_action*/11, /*ailment_detail_1*/0, /*ailment_name*/"魅惑");
-INSERT INTO `ailment_data` VALUES (/*ailment_id*/15, /*ailment_action*/12, /*ailment_detail_1*/0, /*ailment_name*/"黑暗");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/15, /*ailment_action*/12, /*ailment_detail_1*/-1, /*ailment_name*/"黑暗");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/16, /*ailment_action*/13, /*ailment_detail_1*/0, /*ailment_name*/"沉默");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/17, /*ailment_action*/30, /*ailment_detail_1*/0, /*ailment_name*/"即死");
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/18, /*ailment_action*/3, /*ailment_detail_1*/-1, /*ailment_name*/"擊退");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/19, /*ailment_action*/11, /*ailment_detail_1*/1, /*ailment_name*/"混亂");
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/20, /*ailment_action*/9, /*ailment_detail_1*/4, /*ailment_name*/"猛毒");

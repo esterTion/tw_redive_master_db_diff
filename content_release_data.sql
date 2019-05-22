@@ -19,5 +19,5 @@ INSERT INTO `content_release_data` VALUES (/*system_id*/503, /*team_level*/1, /*
 INSERT INTO `content_release_data` VALUES (/*system_id*/506, /*team_level*/1, /*story_id*/0, /*quest_id*/11003005, /*dialog*/"主線冒險3-5（NORMAL）通關後解放");
 INSERT INTO `content_release_data` VALUES (/*system_id*/601, /*team_level*/1, /*story_id*/0, /*quest_id*/11002001, /*dialog*/"主線冒險2-1（NORMAL）通關後解放");
 INSERT INTO `content_release_data` VALUES (/*system_id*/602, /*team_level*/1, /*story_id*/0, /*quest_id*/11007001, /*dialog*/"主線冒險7-1（NORMAL）通關後解放");
-INSERT INTO `content_release_data` VALUES (/*system_id*/603, /*team_level*/1, /*story_id*/0, /*quest_id*/11011001, /*dialog*/"主線冒險11-1（NORMAL）通關後解放");
+INSERT INTO `content_release_data` VALUES (/*system_id*/603, /*team_level*/1, /*story_id*/0, /*quest_id*/11016014, /*dialog*/"主線冒險16-14（NORMAL）通關後解放");
 INSERT INTO `content_release_data` VALUES (/*system_id*/701, /*team_level*/1, /*story_id*/0, /*quest_id*/11003001, /*dialog*/"主線冒險3-1（NORMAL）通關後解放");

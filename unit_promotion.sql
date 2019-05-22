@@ -908,6 +908,7 @@ INSERT INTO `unit_promotion` VALUES (/*unit_id*/501200, /*promotion_level*/6, /*
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/501200, /*promotion_level*/7, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/501200, /*promotion_level*/8, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/501200, /*promotion_level*/9, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
+INSERT INTO `unit_promotion` VALUES (/*unit_id*/501200, /*promotion_level*/10, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/501200, /*promotion_level*/11, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900102, /*promotion_level*/1, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900102, /*promotion_level*/2, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
@@ -918,6 +919,7 @@ INSERT INTO `unit_promotion` VALUES (/*unit_id*/900102, /*promotion_level*/6, /*
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900102, /*promotion_level*/7, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900102, /*promotion_level*/8, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900102, /*promotion_level*/9, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
+INSERT INTO `unit_promotion` VALUES (/*unit_id*/900102, /*promotion_level*/10, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900102, /*promotion_level*/11, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900001, /*promotion_level*/1, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900001, /*promotion_level*/2, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
@@ -928,6 +930,7 @@ INSERT INTO `unit_promotion` VALUES (/*unit_id*/900001, /*promotion_level*/6, /*
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900001, /*promotion_level*/7, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900001, /*promotion_level*/8, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900001, /*promotion_level*/9, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
+INSERT INTO `unit_promotion` VALUES (/*unit_id*/900001, /*promotion_level*/10, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900001, /*promotion_level*/11, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900201, /*promotion_level*/1, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900201, /*promotion_level*/2, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
@@ -938,6 +941,7 @@ INSERT INTO `unit_promotion` VALUES (/*unit_id*/900201, /*promotion_level*/6, /*
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900201, /*promotion_level*/7, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900201, /*promotion_level*/8, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900201, /*promotion_level*/9, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
+INSERT INTO `unit_promotion` VALUES (/*unit_id*/900201, /*promotion_level*/10, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900201, /*promotion_level*/11, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900202, /*promotion_level*/1, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900202, /*promotion_level*/2, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
@@ -948,6 +952,7 @@ INSERT INTO `unit_promotion` VALUES (/*unit_id*/900202, /*promotion_level*/6, /*
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900202, /*promotion_level*/7, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900202, /*promotion_level*/8, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900202, /*promotion_level*/9, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
+INSERT INTO `unit_promotion` VALUES (/*unit_id*/900202, /*promotion_level*/10, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900202, /*promotion_level*/11, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900302, /*promotion_level*/1, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900302, /*promotion_level*/2, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
@@ -958,6 +963,7 @@ INSERT INTO `unit_promotion` VALUES (/*unit_id*/900302, /*promotion_level*/6, /*
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900302, /*promotion_level*/7, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900302, /*promotion_level*/8, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900302, /*promotion_level*/9, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
+INSERT INTO `unit_promotion` VALUES (/*unit_id*/900302, /*promotion_level*/10, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900302, /*promotion_level*/11, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905801, /*promotion_level*/1, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905801, /*promotion_level*/2, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
@@ -968,6 +974,7 @@ INSERT INTO `unit_promotion` VALUES (/*unit_id*/905801, /*promotion_level*/6, /*
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905801, /*promotion_level*/7, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905801, /*promotion_level*/8, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905801, /*promotion_level*/9, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
+INSERT INTO `unit_promotion` VALUES (/*unit_id*/905801, /*promotion_level*/10, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905801, /*promotion_level*/11, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905901, /*promotion_level*/1, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905901, /*promotion_level*/2, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
@@ -978,6 +985,7 @@ INSERT INTO `unit_promotion` VALUES (/*unit_id*/905901, /*promotion_level*/6, /*
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905901, /*promotion_level*/7, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905901, /*promotion_level*/8, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905901, /*promotion_level*/9, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
+INSERT INTO `unit_promotion` VALUES (/*unit_id*/905901, /*promotion_level*/10, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905901, /*promotion_level*/11, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905902, /*promotion_level*/1, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905902, /*promotion_level*/2, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
@@ -988,6 +996,7 @@ INSERT INTO `unit_promotion` VALUES (/*unit_id*/905902, /*promotion_level*/6, /*
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905902, /*promotion_level*/7, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905902, /*promotion_level*/8, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905902, /*promotion_level*/9, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
+INSERT INTO `unit_promotion` VALUES (/*unit_id*/905902, /*promotion_level*/10, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/905902, /*promotion_level*/11, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/902501, /*promotion_level*/1, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/902501, /*promotion_level*/2, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
@@ -998,6 +1007,7 @@ INSERT INTO `unit_promotion` VALUES (/*unit_id*/902501, /*promotion_level*/6, /*
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/902501, /*promotion_level*/7, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/902501, /*promotion_level*/8, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/902501, /*promotion_level*/9, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
+INSERT INTO `unit_promotion` VALUES (/*unit_id*/902501, /*promotion_level*/10, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/902501, /*promotion_level*/11, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900002, /*promotion_level*/1, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900002, /*promotion_level*/2, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
@@ -1008,5 +1018,6 @@ INSERT INTO `unit_promotion` VALUES (/*unit_id*/900002, /*promotion_level*/6, /*
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900002, /*promotion_level*/7, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900002, /*promotion_level*/8, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900002, /*promotion_level*/9, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
+INSERT INTO `unit_promotion` VALUES (/*unit_id*/900002, /*promotion_level*/10, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/900002, /*promotion_level*/11, /*equip_slot_1*/0, /*equip_slot_2*/0, /*equip_slot_3*/0, /*equip_slot_4*/0, /*equip_slot_5*/0, /*equip_slot_6*/0);
 CREATE INDEX 'unit_promotion_0_unit_id' on 'unit_promotion'('unit_id');
