@@ -69,4 +69,6 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/108301, /*unit_name*/"美咲（
 INSERT INTO `unit_background` VALUES (/*unit_id*/108401, /*unit_name*/"千歌（聖誕節）", /*bg_id*/500114, /*bg_name*/"咲戀育幼院 大廳 聖誕節", /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/108501, /*unit_name*/"胡桃（聖誕節）", /*bg_id*/500114, /*bg_name*/"咲戀育幼院 大廳 聖誕節", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/108601, /*unit_name*/"綾音（聖誕節）", /*bg_id*/500114, /*bg_name*/"咲戀育幼院 大廳 聖誕節", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/108701, /*unit_name*/"日和（新年）", /*bg_id*/500553, /*bg_name*/"新年 神殿", /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/108801, /*unit_name*/"優衣（新年）", /*bg_id*/500553, /*bg_name*/"新年 神殿", /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/108901, /*unit_name*/"怜（新年）", /*bg_id*/500553, /*bg_name*/"新年 神殿", /*position*/0.0, /*face_type*/2);

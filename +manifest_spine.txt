@@ -578,7 +578,7 @@ a/spine_912401_battle.cysp.unity3d,8aa5d823312767fc3f75d9fd74397816,tutorial2,10
 a/spine_912401_chara_base.cysp.unity3d,e42c31b3cff4135e2adb8f0fbdffdd90,tutorial2,2231,
 a/spine_dungeonunitsilhouette.unity3d,c493e299e4afe85ac122da8fa37c27ab,tutorial2,3584,
 a/spine_emotion.unity3d,cbef830a6d39a2da1657f94b89cb5248,tutorial0,92506,
-a/spine_event.cysp.unity3d,d03d089485061a3c6e67d0e0767f03fb,tutorial2,5492,
+a/spine_event.cysp.unity3d,6ffee5af234b888387ad929c3c40c057,tutorial2,4638,
 a/spine_event_story_10008.cysp.unity3d,b7b5e29780b384db34830310a9811c9e,tutorial2,63939,
 a/spine_event_story_10012.cysp.unity3d,e337427d97d160437ec8ec49b262f128,tutorial2,11218,
 a/spine_event_story_60000.cysp.unity3d,030d928911c4ed3deefa81fdc11f6a34,tutorial2,45549,

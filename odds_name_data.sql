@@ -19,5 +19,15 @@ INSERT INTO `odds_name_data` VALUES (/*id*/17, /*odds_file*/1000720101, /*name*/
 INSERT INTO `odds_name_data` VALUES (/*id*/18, /*odds_file*/1000720102, /*name*/"依里的記憶碎片", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/19, /*odds_file*/1000820101, /*name*/"杏奈的記憶碎片", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/20, /*odds_file*/1000820102, /*name*/"深月的記憶碎片", /*icon_type*/99002, /*description*/"");
-INSERT INTO `odds_name_data` VALUES (/*id*/21, /*odds_file*/1000920101, /*name*/"胡桃（萬聖節）的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/21, /*odds_file*/1000920101, /*name*/"胡桃（聖誕節）的記憶碎片", /*icon_type*/99002, /*description*/"");
 INSERT INTO `odds_name_data` VALUES (/*id*/22, /*odds_file*/1000920102, /*name*/"小望的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/23, /*odds_file*/1001020101, /*name*/"怜（新年）的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/24, /*odds_file*/1001020102, /*name*/"優衣的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/31, /*odds_file*/"box_rank_2-4", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
+INSERT INTO `odds_name_data` VALUES (/*id*/32, /*odds_file*/"box_rank_2-5", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
+INSERT INTO `odds_name_data` VALUES (/*id*/33, /*odds_file*/"box_rank_3-6", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
+INSERT INTO `odds_name_data` VALUES (/*id*/34, /*odds_file*/"box_rank_4-5", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
+INSERT INTO `odds_name_data` VALUES (/*id*/35, /*odds_file*/"box_rank_6-7", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
+INSERT INTO `odds_name_data` VALUES (/*id*/36, /*odds_file*/"box_rank_7-8", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
+INSERT INTO `odds_name_data` VALUES (/*id*/37, /*odds_file*/"box_rank_8-10", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
+INSERT INTO `odds_name_data` VALUES (/*id*/38, /*odds_file*/"box_rank_8-11", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
