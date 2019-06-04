@@ -697,7 +697,7 @@ INSERT INTO `unit_comments` VALUES (/*id*/1089005, /*unit_id*/108901, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1089006, /*unit_id*/108931, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"新年剛開始就出現邪魔歪道……！\n阻撓他人幸福者，\n我會用全力斬光！　要上囉！");
 INSERT INTO `unit_comments` VALUES (/*id*/1089007, /*unit_id*/108931, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"今年果然也一樣，\n我還是需要你。拜託你。希望你今後\n也能助我一臂之力。");
 INSERT INTO `unit_comments` VALUES (/*id*/1089008, /*unit_id*/108931, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"帶有寒氣的這個劍技……\n多虧有你，\n讓我更熟練了。謝謝。");
-INSERT INTO `unit_comments` VALUES (/*id*/1089009, /*unit_id*/108931, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"……自己的前進之路，\n我想靠自己親手開拓。\n然後我想要和重要的夥伴\n還要你一起在路上前進。");
+INSERT INTO `unit_comments` VALUES (/*id*/1089009, /*unit_id*/108931, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"……自己的前進之路，\n我想靠自己親手開拓。\n然後我想要和重要的夥伴\n還有你一起在路上前進。");
 INSERT INTO `unit_comments` VALUES (/*id*/1089010, /*unit_id*/108931, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"……煩惱應該已經留在去年了。\n你不要介意！　沒什麼啦！\n沒什麼啦，應該……");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
