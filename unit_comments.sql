@@ -699,5 +699,15 @@ INSERT INTO `unit_comments` VALUES (/*id*/1089007, /*unit_id*/108931, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1089008, /*unit_id*/108931, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"帶有寒氣的這個劍技……\n多虧有你，\n讓我更熟練了。謝謝。");
 INSERT INTO `unit_comments` VALUES (/*id*/1089009, /*unit_id*/108931, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"……自己的前進之路，\n我想靠自己親手開拓。\n然後我想要和重要的夥伴\n還有你一起在路上前進。");
 INSERT INTO `unit_comments` VALUES (/*id*/1089010, /*unit_id*/108931, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"……煩惱應該已經留在去年了。\n你不要介意！　沒什麼啦！\n沒什麼啦，應該……");
+INSERT INTO `unit_comments` VALUES (/*id*/1091001, /*unit_id*/109101, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/6.7, /*change_face*/2, /*description*/"弟弟，你知道\n情人節嗎？　是送巧克力\n給喜歡的人的日子喔。\n你要收下姐姐的愛喲！");
+INSERT INTO `unit_comments` VALUES (/*id*/1091002, /*unit_id*/109101, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/7.5, /*change_face*/5, /*description*/"像姐姐輕聲安慰般的\n甜蜜巧克力，還有像姐姐\n摸頭安慰般的成人滋味巧克力。\n弟弟喜歡哪一種啊？");
+INSERT INTO `unit_comments` VALUES (/*id*/1091003, /*unit_id*/109101, /*use_type*/1, /*voice_id*/3, /*face_id*/6, /*change_time*/2.0, /*change_face*/1, /*description*/"好像快要蛀牙了？\n不要緊啦，姐姐來\n幫弟弟把牙齒刷乾淨。\n來把嘴張開♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1091004, /*unit_id*/109101, /*use_type*/1, /*voice_id*/4, /*face_id*/5, /*change_time*/5.5, /*change_face*/2, /*description*/"要我摸頭安慰你嗎？\n還是說幫你按摩肩膀？　膝枕？\n搭配巧克力，要不要姐姐\n來個甜蜜蜜的照顧服務啊？");
+INSERT INTO `unit_comments` VALUES (/*id*/1091005, /*unit_id*/109101, /*use_type*/1, /*voice_id*/5, /*face_id*/5, /*change_time*/7.1, /*change_face*/2, /*description*/"你看，你嘴邊沾到巧克力了。\n姐姐幫你擦掉……啊姆。\n嗯，好甜呀♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1091006, /*unit_id*/109131, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"情人節是和甜甜的巧克力\n一起傳遞愛意的日子♪\n姐姐的愛比巧克力還甜，\n要做好心理準備喔♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1091007, /*unit_id*/109131, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"拿到了多少巧克力呢？\n跟姐姐說看看吧？\n我想知道弟弟的一切。\n是單純的姐姐心態喔♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1091008, /*unit_id*/109131, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"你坐立不安的是怎麼啦？\n弟弟是在等什麼啊？\n呵呵，被逗得著急的弟弟\n也好可愛呢～♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1091009, /*unit_id*/109131, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"咦？　這件衣服很適合我嗎？\n弟弟真是越來越會\n稱讚女孩子了呢♪\n姐姐都小鹿亂撞了。");
+INSERT INTO `unit_comments` VALUES (/*id*/1091010, /*unit_id*/109131, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"弟弟，我喜歡你喔♪\n我還有很多巧克力，\n每次送你我都會再說一次♪");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
