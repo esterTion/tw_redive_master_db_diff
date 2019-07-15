@@ -10,4 +10,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5008, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5009, /*story_type*/5, /*value*/10009, /*title*/"忘却的頌歌", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/05/02 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5010, /*story_type*/5, /*value*/10010, /*title*/"新春破曉之星大危機！", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/06/03 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5011, /*story_type*/5, /*value*/10011, /*title*/"情人節戰爭！ 爭鬥心意的甜點對決", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/07/01 16:00:00", /*end_time*/"2030/04/24 14:59:59");
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5012, /*story_type*/5, /*value*/10012, /*title*/"王都的名偵探 嘆息的追緝者", /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/"2019/07/17 16:00:00", /*end_time*/"2030/04/24 14:59:59");
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
