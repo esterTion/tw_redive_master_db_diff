@@ -1,1 +1,2 @@
 CREATE TABLE 'vote_data' ('vote_id' INTEGER NOT NULL, 'vote_start_time' TEXT NOT NULL, 'vote_end_time' TEXT NOT NULL, 'result_start_time' TEXT NOT NULL, 'result_end_time' TEXT NOT NULL, 'start_story_id' INTEGER NOT NULL, 'result_story_id' INTEGER NOT NULL, PRIMARY KEY('vote_id'));
+INSERT INTO `vote_data` VALUES (/*vote_id*/1, /*vote_start_time*/"2019-07-24 16:00:00", /*vote_end_time*/"2019-07-29 15:59:59", /*result_start_time*/"2019-08-01 16:00:00", /*result_end_time*/"2019-08-08 15:59:59", /*start_story_id*/500, /*result_story_id*/501);

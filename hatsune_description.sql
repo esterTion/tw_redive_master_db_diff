@@ -54,3 +54,4 @@ INSERT INTO `hatsune_description` VALUES (/*id*/1001002002, /*event_id*/10010, /
 INSERT INTO `hatsune_description` VALUES (/*id*/1001002003, /*event_id*/10010, /*type*/2, /*description*/"雖然大家都習慣了工作，此時卻出現了一個\n想知道如何和女朋友接吻的「實體化的願望」。\n但是，看到了主角抱住倒下的優衣時的樣子，\n就在嘴唇快要親到的前一刻，完成了淨化。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1001002004, /*event_id*/10010, /*type*/2, /*description*/"時間越晚，參拜的人變得越多，也跟著忙了起來。\n此時「實體化的願望」出現了。\n那個想要獲得鼓勵而振作的嘆息與徬徨，\n就靠著怜「拼命」的聲援而完成了淨化。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1001002005, /*event_id*/10010, /*type*/2, /*description*/"將許多的願望淨化完成後，大家準備想休息時，\n來到了願望最為濃烈的年末前幾小時，\n此時願望一個接著一個的實體化了。\n這些失控的願望化成了一團黑霧籠罩著神殿。");
+CREATE INDEX 'hatsune_description_0_event_id_1_type' on 'hatsune_description'('event_id','type');

@@ -53,4 +53,6 @@ INSERT INTO `vote_unit` VALUES (/*vote_id*/1, /*unit_id*/103601, /*unit_rarity*/
 INSERT INTO `vote_unit` VALUES (/*vote_id*/1, /*unit_id*/104401, /*unit_rarity*/3);
 INSERT INTO `vote_unit` VALUES (/*vote_id*/1, /*unit_id*/103701, /*unit_rarity*/3);
 INSERT INTO `vote_unit` VALUES (/*vote_id*/1, /*unit_id*/105601, /*unit_rarity*/3);
+INSERT INTO `vote_unit` VALUES (/*vote_id*/1, /*unit_id*/101401, /*unit_rarity*/3);
 INSERT INTO `vote_unit` VALUES (/*vote_id*/1, /*unit_id*/107101, /*unit_rarity*/3);
+INSERT INTO `vote_unit` VALUES (/*vote_id*/1, /*unit_id*/106101, /*unit_rarity*/3);

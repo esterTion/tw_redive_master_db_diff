@@ -56,6 +56,7 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_SUPPORT", /*bg_id*/500390, /*ev
 INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_BATTLE_TOP", /*bg_id*/500390, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_BATTLE_RANKING", /*bg_id*/500390, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_BATTLE_SUBJUGATION_INFO", /*bg_id*/500390, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_BATTLE_MYLOG", /*bg_id*/500390, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"NEW_CHARACTER_INTRODUCTION", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"SHOP", /*bg_id*/500370, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"MISSION", /*bg_id*/500390, /*event_id*/0);
@@ -73,10 +74,15 @@ INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_TOP", /*bg_id*/530050, /*eve
 INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_CHANGE_LIST", /*bg_id*/530050, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"JUKEBOX_PURCHAES_LIST", /*bg_id*/530050, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"QUEST_UNIQUE_EQUIP", /*bg_id*/500253, /*event_id*/0);
-INSERT INTO `bg_data` VALUES (/*view_name*/"MINIGAME_FKE_TOP", /*bg_id*/0, /*event_id*/0);
-INSERT INTO `bg_data` VALUES (/*view_name*/"MINIGAME_PCT_TOP", /*bg_id*/500600, /*event_id*/0);
-INSERT INTO `bg_data` VALUES (/*view_name*/"MINIGAME_PCT", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"ANNIVERSARY_LOGIN_BONUS", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_FKE_TOP", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PCT_TOP", /*bg_id*/500600, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MINI_GAME_PCT", /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CHARACTER_VOTE_TOP", /*bg_id*/500590, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CHARACTER_VOTE_RESULT", /*bg_id*/500590, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"CHARACTER_VOTE_OPENING", /*bg_id*/0, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MY_PROFILE_CARD", /*bg_id*/530032, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"CLAN_PROFILE_CARD", /*bg_id*/530032, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/"EVENT_ROBO_LLAMA", /*bg_id*/710049, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"GLOBAL_RAID_RANKING", /*bg_id*/500390, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/"MENU_EMBLEM", /*bg_id*/530032, /*event_id*/0);
