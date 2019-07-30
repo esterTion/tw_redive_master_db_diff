@@ -751,5 +751,15 @@ INSERT INTO `unit_comments` VALUES (/*id*/1091007, /*unit_id*/109131, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1091008, /*unit_id*/109131, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"你坐立不安的是怎麼啦？\n弟弟是在等什麼啊？\n呵呵，被逗得著急的弟弟\n也好可愛呢～♪");
 INSERT INTO `unit_comments` VALUES (/*id*/1091009, /*unit_id*/109131, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"咦？　這件衣服很適合我嗎？\n弟弟真是越來越會\n稱讚女孩子了呢♪\n姐姐都小鹿亂撞了。");
 INSERT INTO `unit_comments` VALUES (/*id*/1091010, /*unit_id*/109131, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"弟弟，我喜歡你喔♪\n我還有很多巧克力，\n每次送你我都會再說一次♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1093001, /*unit_id*/109301, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/3.1, /*change_face*/2, /*description*/"交到新朋友\n真的好開心喔！\n我想跟你一起度過青春的每一天");
+INSERT INTO `unit_comments` VALUES (/*id*/1093002, /*unit_id*/109301, /*use_type*/1, /*voice_id*/2, /*face_id*/4, /*change_time*/3.0, /*change_face*/1, /*description*/"雖然每天都在補考和不及格中度過，\n不過露真的非常～喜歡\n馬納歷亞魔法學院喔♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1093003, /*unit_id*/109301, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/2.7, /*change_face*/2, /*description*/"你現在有過得很青春洋溢嗎？\n露每天都是這樣度過的喔！");
+INSERT INTO `unit_comments` VALUES (/*id*/1093004, /*unit_id*/109301, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/1.2, /*change_face*/2, /*description*/"我希望你能更常、更常\n和露一起玩♪");
+INSERT INTO `unit_comments` VALUES (/*id*/1093005, /*unit_id*/109301, /*use_type*/1, /*voice_id*/5, /*face_id*/6, /*change_time*/3.4, /*change_face*/1, /*description*/"你很在意\n小眼睛嗎？\n你要不要摸摸看牠？");
+INSERT INTO `unit_comments` VALUES (/*id*/1093006, /*unit_id*/109331, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"我要讓你看看\n露的華麗小眼睛制裁！\n那個，就是那個！");
+INSERT INTO `unit_comments` VALUES (/*id*/1093007, /*unit_id*/109331, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"靠露和小眼睛的\n搭檔作戰\n打敗他們～！");
+INSERT INTO `unit_comments` VALUES (/*id*/1093008, /*unit_id*/109331, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"在異世界的回憶，\n也算是青春一頁！\n露真的很開心喔！");
+INSERT INTO `unit_comments` VALUES (/*id*/1093009, /*unit_id*/109331, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"咦，你問我小眼睛的真實身分是什麼？\n我也不知道…？　不過，牠是一直\n待在露身邊的好朋友！");
+INSERT INTO `unit_comments` VALUES (/*id*/1093010, /*unit_id*/109331, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"補考的女皇、落榜的女王…\n露要讓你見識一下\n擁有無數稱號的露的實力！");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
