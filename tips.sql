@@ -57,4 +57,5 @@ INSERT INTO `tips` VALUES (/*id*/4106001, /*value*/106001, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4106101, /*value*/106101, /*tips_index*/1, /*title*/"必殺技");
 INSERT INTO `tips` VALUES (/*id*/4106301, /*value*/106301, /*tips_index*/1, /*title*/"與感動的相遇");
 INSERT INTO `tips` VALUES (/*id*/4107101, /*value*/107101, /*tips_index*/1, /*title*/"無聊啊……");
+INSERT INTO `tips` VALUES (/*id*/4109201, /*value*/109201, /*tips_index*/1, /*title*/"興致勃勃");
 INSERT INTO `tips` VALUES (/*id*/4109301, /*value*/109301, /*tips_index*/1, /*title*/"臨陣脫逃");
