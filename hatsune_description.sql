@@ -49,6 +49,10 @@ INSERT INTO `hatsune_description` VALUES (/*id*/47, /*event_id*/10013, /*type*/1
 INSERT INTO `hatsune_description` VALUES (/*id*/48, /*event_id*/10013, /*type*/1, /*description*/"強大的VERY HARD Boss登場。\nVERY HARD Boss１天能夠討伐１隻。\n做好萬全準備後，小心地進行挑戰吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/49, /*event_id*/10013, /*type*/1, /*description*/"交換討伐證將是得到獎勵的契機。\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\n多多蒐集，將角色變成夥伴吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/50, /*event_id*/10013, /*type*/3, /*description*/"特別戰鬥是有著 3 階段變化的戰鬥模式。\n去取得更豪華的獎勵與任務獎勵吧。由於期間中只能挑戰 1 隻，請多花點心思組成隊伍挑戰吧。");
+INSERT INTO `hatsune_description` VALUES (/*id*/51, /*event_id*/10014, /*type*/1, /*description*/"可透過活動，體驗特別的劇情。\n活動劇情將於進入活動冒險後解放。");
+INSERT INTO `hatsune_description` VALUES (/*id*/52, /*event_id*/10014, /*type*/1, /*description*/"進入活動冒險後，頭目將登場。\n使用頭目券，即可挑戰頭目。\n擊敗頭目將獲得大量的討伐證，所以請盡量挑戰吧。");
+INSERT INTO `hatsune_description` VALUES (/*id*/53, /*event_id*/10014, /*type*/1, /*description*/"強大的VERY HARD Boss登場。\nVERY HARD Boss１天能夠討伐１隻。\n做好萬全準備後，小心地進行挑戰吧。");
+INSERT INTO `hatsune_description` VALUES (/*id*/54, /*event_id*/10014, /*type*/1, /*description*/"交換討伐證將是得到獎勵的契機。\n獎勵之中，也包含在活動中登場之角色的記憶碎片。\n多多蒐集，將角色變成夥伴吧。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1000802001, /*event_id*/10008, /*type*/2, /*description*/"為尋求工作而前往溪谷洞窟的杏奈。\n為尋找古文書而前往購買處的七七香。\n聽了村人的願望而朝村莊前進的流夏。\n3個人朝向各自的目的地出發了。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1000802002, /*event_id*/10008, /*type*/2, /*description*/"在村裡爽快懲治了惡棍的流夏。\n與害怕報復的村人談過之後，\n她感到溪谷一帶有著暗中活躍的巨惡。\n另一方面，前往溪谷洞窟的杏奈則是……。");
 INSERT INTO `hatsune_description` VALUES (/*id*/1000802003, /*event_id*/10008, /*type*/2, /*description*/"杏奈她們雖然在溪谷洞窟開始工作了，\n但該處和先前所說的模樣完全不同，是一處被無法之徒盤據，\n充斥著嚴苛勞動條件的惡劣環境。\n此時，去採買的七七香則是……。");

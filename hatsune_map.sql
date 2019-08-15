@@ -12,3 +12,4 @@ INSERT INTO `hatsune_map` VALUES (/*course_id*/10010, /*event_id*/10010, /*name*
 INSERT INTO `hatsune_map` VALUES (/*course_id*/10011, /*event_id*/10011, /*name*/"情人節", /*map_id*/10011, /*sheet_id*/"bgm_M189", /*que_id*/"bgm_M189", /*start_area_id*/10011101, /*end_area_id*/10011101);
 INSERT INTO `hatsune_map` VALUES (/*course_id*/10012, /*event_id*/10012, /*name*/"王城蘭德索爾", /*map_id*/10012, /*sheet_id*/"bgm_M206", /*que_id*/"bgm_M206", /*start_area_id*/10012101, /*end_area_id*/10012101);
 INSERT INTO `hatsune_map` VALUES (/*course_id*/10013, /*event_id*/10013, /*name*/"馬納歷亞", /*map_id*/10013, /*sheet_id*/"bgm_M215", /*que_id*/"bgm_M215", /*start_area_id*/10013101, /*end_area_id*/10013101);
+INSERT INTO `hatsune_map` VALUES (/*course_id*/10014, /*event_id*/10014, /*name*/"塔爾格姆地區", /*map_id*/10014, /*sheet_id*/"bgm_M32", /*que_id*/"bgm_M32", /*start_area_id*/10014101, /*end_area_id*/10014101);
