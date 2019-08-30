@@ -935,5 +935,17 @@ INSERT INTO `unit_comments` VALUES (/*id*/1094009, /*unit_id*/109431, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1094010, /*unit_id*/109431, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"我身體很強壯\n所以…請交給我吧！");
 INSERT INTO `unit_comments` VALUES (/*id*/1094011, /*unit_id*/109401, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/4.3, /*change_face*/2, /*description*/"今天是你的生日啊\n那個…生日快樂\n你有沒有想要什麼東西？");
 INSERT INTO `unit_comments` VALUES (/*id*/1094012, /*unit_id*/109431, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"HAPPY BIRTHDAY～\n明明是祝賀你生日的日子，\n卻連我都開心了起來。真的很不可思議。");
+INSERT INTO `unit_comments` VALUES (/*id*/1095001, /*unit_id*/109501, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/2.6, /*change_face*/2, /*description*/"這個就是傳聞中的和服嗎…\n看著美，\n脫下來也美，\n轉一圈也很美的魔性衣服…！");
+INSERT INTO `unit_comments` VALUES (/*id*/1095002, /*unit_id*/109501, /*use_type*/1, /*voice_id*/2, /*face_id*/5, /*change_time*/2.9, /*change_face*/6, /*description*/"咦～！虐待狂先生、\n你剛剛都看見了嗎！？\n你剛剛看著空花轉圈\n看得很開心吧…果然是人格異常者！");
+INSERT INTO `unit_comments` VALUES (/*id*/1095003, /*unit_id*/109501, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/4.8, /*change_face*/5, /*description*/"據說，和服底下是不穿的…\n虐、虐待狂先生…\n讓我確認看看什麼的\n是不行的唷…呵呵");
+INSERT INTO `unit_comments` VALUES (/*id*/1095004, /*unit_id*/109501, /*use_type*/1, /*voice_id*/4, /*face_id*/6, /*change_time*/7.4, /*change_face*/5, /*description*/"啊，腰帶鬆了…\n虐待狂先生，\n你要幫我重綁嗎？（ 流口水）\n棒…真棒！　再綁緊一點～！");
+INSERT INTO `unit_comments` VALUES (/*id*/1095005, /*unit_id*/109501, /*use_type*/1, /*voice_id*/5, /*face_id*/2, /*change_time*/5.6, /*change_face*/5, /*description*/"虐待狂先生…不，現在\n應該要改叫虐待狂大人才對…\n空花是服侍虐待狂大人的\n乖孩子…（流口水）");
+INSERT INTO `unit_comments` VALUES (/*id*/1095006, /*unit_id*/109531, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"這件和服，有點露\n好害羞…不過只要想到\n虐待狂先生在看我\n我就覺得…（流口水）");
+INSERT INTO `unit_comments` VALUES (/*id*/1095007, /*unit_id*/109531, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"咦～～～～！\n這種旋轉的感覺好像會上癮\n我還要再轉～！\n呵、呵呵呵～～～！");
+INSERT INTO `unit_comments` VALUES (/*id*/1095008, /*unit_id*/109531, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"感覺穿著這件衣服跳舞，\n會跳得比平常還要美…！\n虐待狂先生就像蜘蛛一樣\n把像蝴蝶般飛舞著的空花…嘻嘻嘻");
+INSERT INTO `unit_comments` VALUES (/*id*/1095009, /*unit_id*/109531, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"「虐待狂先生就像野獸般…\n把空花的和服扒開…」\n嘻嘻嘻…啊！　怎麼有種\n虐待狂先生正在看我的感覺…！");
+INSERT INTO `unit_comments` VALUES (/*id*/1095010, /*unit_id*/109531, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"你很在意這個腰帶嗎？\n你、你想要拉開腰帶讓空花旋轉…！\n然後把和服胸襟敞開的空花\n就這樣美味地…嘻嘻嘻");
+INSERT INTO `unit_comments` VALUES (/*id*/1095011, /*unit_id*/109501, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/5.7, /*change_face*/5, /*description*/"今天是很重要的一天呢…\n是虐待狂先生出生的日子…(流口水)\n就是要讓空花用身體\n來為你慶祝的一天吧！？");
+INSERT INTO `unit_comments` VALUES (/*id*/1095012, /*unit_id*/109531, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"生日快樂\n話說回來，虐待狂先生\n和服的腰帶感覺就像禮物的緞帶\n生日禮物就是我，說笑的…嘻嘻嘻");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
