@@ -947,5 +947,17 @@ INSERT INTO `unit_comments` VALUES (/*id*/1095009, /*unit_id*/109531, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1095010, /*unit_id*/109531, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"你很在意這個腰帶嗎？\n你、你想要拉開腰帶讓空花旋轉…！\n然後把和服胸襟敞開的空花\n就這樣美味地…嘻嘻嘻");
 INSERT INTO `unit_comments` VALUES (/*id*/1095011, /*unit_id*/109501, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/5.7, /*change_face*/5, /*description*/"今天是很重要的一天呢…\n是虐待狂先生出生的日子…(流口水)\n就是要讓空花用身體\n來為你慶祝的一天吧！？");
 INSERT INTO `unit_comments` VALUES (/*id*/1095012, /*unit_id*/109531, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"生日快樂\n話說回來，虐待狂先生\n和服的腰帶感覺就像禮物的緞帶\n生日禮物就是我，說笑的…嘻嘻嘻");
+INSERT INTO `unit_comments` VALUES (/*id*/1096001, /*unit_id*/109601, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/7.9, /*change_face*/2, /*description*/"如果您要偷溜出去的話\n我知道一個很棒的地方喔\n下次讓在下替您帶路！\n一定會很開心呦！");
+INSERT INTO `unit_comments` VALUES (/*id*/1096002, /*unit_id*/109601, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/4.9, /*change_face*/6, /*description*/"雖然在下很喜歡楓葉\n也喜歡楓葉饅頭喔\n想著想著肚子就餓起來了…\n看美景不如吃美食！");
+INSERT INTO `unit_comments` VALUES (/*id*/1096003, /*unit_id*/109601, /*use_type*/1, /*voice_id*/3, /*face_id*/3, /*change_time*/8.6, /*change_face*/2, /*description*/"擲一支是為統一天下…\n擲二支仍為統一天下…\n將軍您要不要來做\n擲手裏劍的特訓呢？　可以盡情丟！");
+INSERT INTO `unit_comments` VALUES (/*id*/1096004, /*unit_id*/109601, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/11.0, /*change_face*/2, /*description*/"這個狐狸面具是在下\n在大江戶鎮的廟會買的。\n走路的時候鈴鐺就會響，\n非常可愛，（狐狸聲）！");
+INSERT INTO `unit_comments` VALUES (/*id*/1096005, /*unit_id*/109601, /*use_type*/1, /*voice_id*/5, /*face_id*/6, /*change_time*/4.0, /*change_face*/1, /*description*/"在下想到一招忍法－冰結地獄\n這是一個強迫敵人\n吃很冰的剉冰\n讓他冰到頭痛的絕招！");
+INSERT INTO `unit_comments` VALUES (/*id*/1096006, /*unit_id*/109631, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"與將軍為敵者\n天誅地滅！　在下會一直繼續下去\n直到天下統一為止！\n用在下的必殺忍術連戰連勝！");
+INSERT INTO `unit_comments` VALUES (/*id*/1096007, /*unit_id*/109631, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"呵呵呵…這是展露在下\n珍藏的新忍術的好時機！\n唔，現在還不能用嗎？\n將軍您真的很壞心眼耶～");
+INSERT INTO `unit_comments` VALUES (/*id*/1096008, /*unit_id*/109631, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"將軍您會\n建立一個太平盛世吧！\n在下會一直\n守護這樣的城鎮的！");
+INSERT INTO `unit_comments` VALUES (/*id*/1096009, /*unit_id*/109631, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"請您仔細看看\n在下活躍地表現吧！　\n在下會一直隨侍在側\n直到有一天，在下被譽為忠臣為止");
+INSERT INTO `unit_comments` VALUES (/*id*/1096010, /*unit_id*/109631, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"只要是為了將軍，不論是\n什麼樣的敵人，在下都會迎戰的！\n在下堅信忠心才是\n天下統一的王牌！");
+INSERT INTO `unit_comments` VALUES (/*id*/1096011, /*unit_id*/109601, /*use_type*/2, /*voice_id*/6, /*face_id*/2, /*change_time*/7.4, /*change_face*/1, /*description*/"祝您生日快樂！\n送您將軍專用的\n手裏劍當作生日禮物！\n請您把它練到順手吧！");
+INSERT INTO `unit_comments` VALUES (/*id*/1096012, /*unit_id*/109631, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/"恭賀您誕辰快樂！\n今天就由在下帶頭乾杯！\n請您將手借給我！\n大家一起慶祝到天明！");
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
