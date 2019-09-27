@@ -44,3 +44,5 @@ INSERT INTO `odds_name_data` VALUES (/*id*/42, /*odds_file*/"box_rank_7-8", /*na
 INSERT INTO `odds_name_data` VALUES (/*id*/43, /*odds_file*/"box_rank_8-10", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
 INSERT INTO `odds_name_data` VALUES (/*id*/44, /*odds_file*/"box_rank_8-11", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
 INSERT INTO `odds_name_data` VALUES (/*id*/45, /*odds_file*/"box_rank_9-12", /*name*/"隨機裝備箱", /*icon_type*/99002, /*description*/"能夠獲得隨機的裝備。");
+INSERT INTO `odds_name_data` VALUES (/*id*/46, /*odds_file*/1001720101, /*name*/"拉姆的記憶碎片", /*icon_type*/99002, /*description*/"");
+INSERT INTO `odds_name_data` VALUES (/*id*/47, /*odds_file*/1001720102, /*name*/"鈴莓的記憶碎片", /*icon_type*/99002, /*description*/"");

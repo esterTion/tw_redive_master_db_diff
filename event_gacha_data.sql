@@ -14,4 +14,5 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10013, /*event_id*/10013, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10014, /*event_id*/10014, /*gacha_name*/"復刻 初音的禮物大作戰", /*item_type*/2, /*item_id*/60132, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10015, /*event_id*/10015, /*gacha_name*/"將軍道中記　白翼的武士", /*item_type*/2, /*item_id*/60142, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10016, /*event_id*/10016, /*gacha_name*/"復刻 小小甜心大冒險", /*item_type*/2, /*item_id*/60152, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10017, /*event_id*/10017, /*gacha_name*/"Re:從零開始的異世界餐桌", /*item_type*/2, /*item_id*/60162, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/"吸血鬼獵人 with伊莉亞", /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
